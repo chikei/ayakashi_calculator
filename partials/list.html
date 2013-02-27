@@ -1,0 +1,98 @@
+<div>
+    <form class="form-inline" style="margin-top: 20px">
+        <select ng-model="attribute" class="input-small">
+            <option value="0">類型</option>
+            <option value="1">妖</option>
+            <option value="2">神</option>
+            <option value="3">九十九</option>
+        </select>
+        <select ng-model="rarity" class="input-small">
+            <option value="0">稀有度</option>
+            <option value="1">&#9733;</option>
+            <option value="2">&#9733;&#9733;</option>
+            <option value="3">&#9733;&#9733;&#9733;</option>
+            <option value="4">&#9733;&#9733;&#9733;&#9733;</option>
+            <option value="5">&#9733;&#9733;&#9733;&#9733;&#9733;</option>
+        </select>
+        <input ng-model="name" class="input-small" placeholder="名稱">
+        <input ng-model="attack" class="input-small" placeholder="攻擊力下限">
+        <input ng-model="attackEff" class="input-small" placeholder="攻擊力效率下限">
+        <input ng-model="defense" class="input-small" placeholder="防禦力下限">
+        <input ng-model="defenseEff" class="input-small" placeholder="防禦力效率下限">
+        <input ng-model="spirit" class="input-small" placeholder="靈耗上限">
+        <select ng-model="skillType" class="input-small">
+            <option value="-1">發動對象</option>
+            <option value="0">本身</option>
+            <option value="1">我方</option>
+            <option value="2">敵方</option>
+        </select>
+        <select ng-model="skillAttribute" class="input-small">
+            <option value="-1">類型</option>
+            <option value="0">全種</option>
+            <option value="1">妖</option>
+            <option value="2">神</option>
+            <option value="3">九十九</option>
+            <option value="4">銀貨</option>
+        </select>
+        <select ng-model="skillTarget" class="input-small">
+            <option value="-1">屬性</option>
+            <option value="0">攻防</option>
+            <option value="1">攻擊力</option>
+            <option value="2">防禦力</option>
+        </select>
+    </form>
+</div>
+<table class="table table-condensed table-hover">
+    <thead>
+    <tr>
+        <th></th>
+        <th>圖</th>
+        <th>
+            <button ng-click="order('attribute')" ng-class="'btn btn-mini'">類型</button>
+        </th>
+        <th>
+            <button ng-click="order('rarity')" ng-class="'btn btn-mini'">稀有度</button>
+        </th>
+        <th>名稱</th>
+        <th>
+            <button ng-click="order('attack')" ng-class="'btn btn-mini'">攻擊</button>
+        </th>
+        <th>
+            <button ng-click="order('attackEff')" ng-class="'btn btn-mini'">攻擊效率</button>
+        </th>
+        <th>
+            <button ng-click="order('defense')" ng-class="'btn btn-mini'">防禦</button>
+        </th>
+        <th>
+            <button ng-click="order('defenseEff')" ng-class="'btn btn-mini'">防禦效率</button>
+        </th>
+        <th>
+            <button ng-click="order('spirit')" ng-class="'btn btn-mini'">靈耗</button>
+        </th>
+        <th>技能名稱</th>
+        <th>技能效果</th>
+        <th>技能強度(%)</th>
+        <th>發動機率(%)</th>
+    </tr>
+    </thead>
+    <tr ng-repeat="demon in list | filter:filter | orderBy:predicate"
+        ng-class="demon.demon.attribute | attributeToRowClass">
+        <td><a href="" ng-click="click(demon.id)"><i ng-class="clickIcon"></i></a></td>
+        <td>
+            <a href="" ng-click="displayImage(demon)" ng-hide="demon.display">{{demon.id}}</a>
+            <img ng-src="{{demon.imageUrl}}" ng-show="demon.display" ng-click="hideImage(demon)"/>
+        </td>
+        <td>{{demon.demon.attribute | attribute}}</td>
+        <td>{{demon.demon.rarity | rarity}}</td>
+        <td>{{demon.demon.name.zh_TW}}</td>
+        <td>{{demon.demon.attack}}</td>
+        <td>{{(demon.demon.attackEff).toFixed(2)}}</td>
+        <td>{{demon.demon.defense}}</td>
+        <td>{{(demon.demon.defenseEff).toFixed(2)}}</td>
+        <td>{{demon.demon.spirit}}</td>
+        <td>{{demon.demon.skill.name.zh_TW}}</td>
+        <td>{{demon.demon.skill | displaySkill }}</td>
+        <td>{{demon.demon.skill.strength | displayStrength}}</td>
+        <td>{{demon.demon.skill.frequency}}</td>
+    </tr>
+</table>

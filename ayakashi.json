@@ -1,0 +1,7888 @@
+[ {
+  "id" : 1,
+  "attribute" : 2,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "天鈿女命",
+    "jp" : "アメノウズメ",
+    "en" : "Ameno Uzume"
+  },
+  "attack" : 1910,
+  "defense" : 1690,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰舞",
+      "jp" : "戦いの舞踏",
+      "en" : "War Dance"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 2,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "管狐",
+    "jp" : "管狐(くだぎつね)",
+    "en" : "Pipe Fox"
+  },
+  "attack" : 1710,
+  "defense" : 1890,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻惑",
+      "jp" : "幻惑",
+      "en" : "Bewitchment"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 3,
+  "attribute" : 3,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "銘刀虎徹",
+    "jp" : "銘刀虎徹(めいとうこてつ)",
+    "en" : "Kotetsu"
+  },
+  "attack" : 2040,
+  "defense" : 1560,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "烈火鬥氣",
+      "jp" : "烈火の闘気",
+      "en" : "Fiery Spirit"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 4,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "清姬",
+    "jp" : "清姫(きよひめ)",
+    "en" : "Kiyohime"
+  },
+  "attack" : 4400,
+  "defense" : 4600,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 5,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "蘿蕾萊",
+    "jp" : "ローレライ",
+    "en" : "Lorelei"
+  },
+  "attack" : 4180,
+  "defense" : 5383,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "甜蜜陷阱",
+      "jp" : "色仕掛け",
+      "en" : "Honey Trap"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 6,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "盔女",
+    "jp" : "兼続の兜",
+    "en" : "Kabuto"
+  },
+  "attack" : 4590,
+  "defense" : 5535,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "銅牆鐵壁",
+      "jp" : "鉄壁の守り",
+      "en" : "Iron Barrier"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 7,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "森蘭丸",
+    "jp" : "森蘭丸(もりらんまる)",
+    "en" : "Ranmaru Mori"
+  },
+  "attack" : 4700,
+  "defense" : 4800,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "從者的覺悟",
+      "jp" : "従者の覚悟",
+      "en" : "Sense of Servitude"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 8,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "皿屋敷阿菊",
+    "jp" : "皿屋敷お菊",
+    "en" : "Okiku"
+  },
+  "attack" : 3450,
+  "defense" : 4110,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻惑",
+      "jp" : "幻惑",
+      "en" : "Bewitchment"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 9,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "槍女瑪姬",
+    "jp" : "軽機関銃 ミリアム",
+    "en" : "Maggie"
+  },
+  "attack" : 4160,
+  "defense" : 3715,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "無情重擊",
+      "jp" : "乱れ撃ち",
+      "en" : "Relentless Pounding"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 10,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "森蘭丸",
+    "jp" : "森蘭丸(もりらんまる)",
+    "en" : "Ranmaru Mori"
+  },
+  "attack" : 8110,
+  "defense" : 6905,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "忠肝赤膽",
+      "jp" : "永劫の忠誠",
+      "en" : "Everlasting Loyalty"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 11,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "窮神",
+    "jp" : "貧乏神",
+    "en" : "Goddess of Poverty"
+  },
+  "attack" : 2810,
+  "defense" : 3430,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "惡神的宿命",
+      "jp" : "悪神の宿命",
+      "en" : "Evil Destiny"
+    },
+    "type" : 2,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 12,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "窮神",
+    "jp" : "貧乏神",
+    "en" : "Goddess of Poverty"
+  },
+  "attack" : 5030,
+  "defense" : 5970,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "福神之祝",
+      "jp" : "福の神の祝福",
+      "en" : "Good Fortune"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 13,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "八百屋阿七",
+    "jp" : "八百屋お七",
+    "en" : "Oshichi"
+  },
+  "attack" : 4100,
+  "defense" : 4000,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 14,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "厄病神",
+    "jp" : "厄病神",
+    "en" : "Goddess of Misfortune"
+  },
+  "attack" : 3930,
+  "defense" : 2790,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "惡神的宿命",
+      "jp" : "悪神の宿命",
+      "en" : "Evil Destiny"
+    },
+    "type" : 2,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 15,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "雪童子",
+    "jp" : "ゆきわらし",
+    "en" : "Snow Sprite"
+  },
+  "attack" : 1720,
+  "defense" : 1520,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "冰雪亂舞",
+      "jp" : "氷雪乱舞",
+      "en" : "Tundra Dance"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 16,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "武蔵坊弁慶",
+    "jp" : "武蔵坊弁慶",
+    "en" : "Benkei Musashibo"
+  },
+  "attack" : 6450,
+  "defense" : 5925,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰爭法螺貝",
+      "jp" : "戦いの法螺貝",
+      "en" : "Conch of War"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 17,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "厄病神",
+    "jp" : "厄病神",
+    "en" : "Goddess of Misfortune"
+  },
+  "attack" : 6470,
+  "defense" : 5218,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "福神之祝",
+      "jp" : "福の神の祝福",
+      "en" : "Good Fortune"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 18,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "奈克絲",
+    "jp" : "ニュクス",
+    "en" : "Nyx"
+  },
+  "attack" : 5790,
+  "defense" : 4210,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "闇之搖籃曲",
+      "jp" : "闇の子守歌",
+      "en" : "Shadow Lullaby"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 19,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "奈克絲",
+    "jp" : "ニュクス",
+    "en" : "Nyx"
+  },
+  "attack" : 9440,
+  "defense" : 7005,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "漆黒小夜曲",
+      "jp" : "漆黒の夜想曲",
+      "en" : "Jet Black Night"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "橋姬",
+    "jp" : "橋姫(はしひめ)",
+    "en" : "Hashihime"
+  },
+  "attack" : 6020,
+  "defense" : 4668,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "吞噬一切的忌妒",
+      "jp" : "うらみつらみねたみそねみ",
+      "en" : "All-Consuming Envy"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 21,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "北野白梅",
+    "jp" : "北野白梅",
+    "en" : "Fleur Kitano"
+  },
+  "attack" : 7680,
+  "defense" : 6360,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "禁斷的擁抱",
+      "jp" : "禁断の抱擁",
+      "en" : "Forbidden Embrace"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 22,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "北野紅梅",
+    "jp" : "北野紅梅",
+    "en" : "Fiorella Kitano"
+  },
+  "attack" : 6300,
+  "defense" : 8910,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "邪惡呢喃",
+      "jp" : "魔性のささやき",
+      "en" : "Sinister Whisper"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 23,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "青龍刀",
+    "jp" : "青龍刀",
+    "en" : "Qing Long"
+  },
+  "attack" : 3000,
+  "defense" : 3480,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "龍捲劍舞",
+      "jp" : "竜巻剣舞",
+      "en" : "Whirlwind Blades"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 24,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "皮爾斯",
+    "jp" : "回転式拳銃 ピアース",
+    "en" : "Pearce"
+  },
+  "attack" : 4890,
+  "defense" : 4110,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 25,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "胴田貫正國",
+    "jp" : "胴田貫",
+    "en" : "Masakuni"
+  },
+  "attack" : 4370,
+  "defense" : 4068,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 26,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "獅子王",
+    "jp" : "獅子王",
+    "en" : "Fang"
+  },
+  "attack" : 6280,
+  "defense" : 4970,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聚精會神",
+      "jp" : "精神統一",
+      "en" : "Intense Focus"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 31,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "赫美拉",
+    "jp" : "ヘーメラー",
+    "en" : "Hemera"
+  },
+  "attack" : 5210,
+  "defense" : 5190,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰舞",
+      "jp" : "戦いの舞踏",
+      "en" : "War Dance"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 36,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "崇德天皇",
+    "jp" : "崇徳院",
+    "en" : "Emperor Sutoku"
+  },
+  "attack" : 10004,
+  "defense" : 10716,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "百鬼夜行",
+      "jp" : "百鬼夜行",
+      "en" : "The Witching Hour"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 37,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "赫美拉",
+    "jp" : "ヘーメラー",
+    "en" : "Hemera"
+  },
+  "attack" : 9400,
+  "defense" : 8475,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女神威光",
+      "jp" : "女神の威光",
+      "en" : "Holy Authority"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 45,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "天照大御神",
+    "jp" : "天照大御神",
+    "en" : "Amaterasu"
+  },
+  "attack" : 12010,
+  "defense" : 10040,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天岩戶之窟",
+      "jp" : "天岩戸隠れ",
+      "en" : "Amaterasu's Hideaway"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 46,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "小源義經",
+    "jp" : "源義経 牛若丸",
+    "en" : "Young Yoshitsune"
+  },
+  "attack" : 7550,
+  "defense" : 7550,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "恩惠七光",
+      "jp" : "親の七光り",
+      "en" : "Patronage"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 47,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "格萊特",
+    "jp" : "自動拳銃 グレーテル",
+    "en" : "Gretel"
+  },
+  "attack" : 8300,
+  "defense" : 5740,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "開戰空砲",
+      "jp" : "開戦の空砲",
+      "en" : "Opening Salvo"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 48,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "衝鋒槍湯瑪士",
+    "jp" : "短機関銃 トマーゾ",
+    "en" : "Thomas"
+  },
+  "attack" : 5340,
+  "defense" : 5348,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "掩護射撃",
+      "jp" : "援護射撃",
+      "en" : "Covering Fire"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 49,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "安妮卓德",
+    "jp" : "メイドボット",
+    "en" : "Anne Droid"
+  },
+  "attack" : 5500,
+  "defense" : 4063,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "X 光",
+      "jp" : "透視スキャン",
+      "en" : "X-Ray"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 50,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "美狄亞",
+    "jp" : "メディア",
+    "en" : "Medea"
+  },
+  "attack" : 6590,
+  "defense" : 5890,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "甜蜜陷阱",
+      "jp" : "色仕掛け",
+      "en" : "Honey Trap"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 51,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "美狄亞",
+    "jp" : "メディア",
+    "en" : "Medea"
+  },
+  "attack" : 10200,
+  "defense" : 9820,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "猛毒餞別",
+      "jp" : "猛毒の餞別(せんべつ)",
+      "en" : "Bitter Farewell"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 52,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "墨染櫻",
+    "jp" : "墨染桜",
+    "en" : "Sakura Sumizome"
+  },
+  "attack" : 11172,
+  "defense" : 13253,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻惑櫻吹雪",
+      "jp" : "幻惑桜吹雪",
+      "en" : "Blizzard of Blossom"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 53,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "弁財天",
+    "jp" : "弁財天",
+    "en" : "Benzaiten"
+  },
+  "attack" : 7420,
+  "defense" : 8375,
+  "spirit" : 27,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天使之翼",
+      "jp" : "天女の羽衣",
+      "en" : "Angel Wing"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 54,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "妖刀村正",
+    "jp" : "妖刀村正",
+    "en" : "Yoto"
+  },
+  "attack" : 10900,
+  "defense" : 7370,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "復仇降臨",
+      "jp" : "復讐の時は来たれり",
+      "en" : "Vengeance is Mine"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 55,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鎌之助",
+    "jp" : "鎌之助の鎖鎌",
+    "en" : "Kusari"
+  },
+  "attack" : 6300,
+  "defense" : 6300,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "虛張聲勢",
+      "jp" : "はったり",
+      "en" : "Bluff"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 56,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "哪吒",
+    "jp" : "哪吒太子(なたたいし)",
+    "en" : "Nezha"
+  },
+  "attack" : 8800,
+  "defense" : 12050,
+  "spirit" : 32,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "混天綾",
+      "jp" : "混天綾(こんてんりょう)",
+      "en" : "Heavenly Protection"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 57,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "西王母",
+    "jp" : "西王母(せいおうぼ)",
+    "en" : "Xi Wangmu"
+  },
+  "attack" : 8350,
+  "defense" : 5800,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "福神之祝",
+      "jp" : "福の神の祝福",
+      "en" : "Good Fortune"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 58,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "少年源義經",
+    "jp" : "源義経 遮那王",
+    "en" : "Teenage Yoshitsune"
+  },
+  "attack" : 9400,
+  "defense" : 9400,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "第一印象",
+      "jp" : "名乗り口上",
+      "en" : "First Impression"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 59,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "小真田幸村",
+    "jp" : "真田幸村 弁丸",
+    "en" : "Benmaru Sanada"
+  },
+  "attack" : 9050,
+  "defense" : 6030,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 60,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "嫦娥",
+    "jp" : "嫦娥(じょうが)",
+    "en" : "Chang'e"
+  },
+  "attack" : 9300,
+  "defense" : 9500,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰舞",
+      "jp" : "戦いの舞踏",
+      "en" : "War Dance"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 61,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "成年源義經",
+    "jp" : "源九郎義経",
+    "en" : "Adult Yoshitsune"
+  },
+  "attack" : 13500,
+  "defense" : 13500,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "英雄光輝",
+      "jp" : "英雄の栄光",
+      "en" : "Heroic Glory"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 62,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "真田幸村",
+    "jp" : "真田源次郎幸村",
+    "en" : "Yukimura Sanada"
+  },
+  "attack" : 15100,
+  "defense" : 8770,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "英雄咆哮",
+      "jp" : "勇者の咆吼",
+      "en" : "Heroic Roar"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 63,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "蛇矛",
+    "jp" : "張飛の蛇矛(だぼう)",
+    "en" : "Yi Mao"
+  },
+  "attack" : 5250,
+  "defense" : 5250,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聚精會神",
+      "jp" : "精神統一",
+      "en" : "Intense Focus"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 64,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "莉莉絲",
+    "jp" : "リリム",
+    "en" : "Lilith"
+  },
+  "attack" : 2410,
+  "defense" : 2390,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 65,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "莉莉絲",
+    "jp" : "リリム",
+    "en" : "Lilith"
+  },
+  "attack" : 3510,
+  "defense" : 3240,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "性感嗓音",
+      "jp" : "セクシーボイス",
+      "en" : "Silky Voice"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 66,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "輝夜姬",
+    "jp" : "カグヤ",
+    "en" : "Kaguya"
+  },
+  "attack" : 3390,
+  "defense" : 4485,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 67,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "大天狗",
+    "jp" : "大天狗",
+    "en" : "Tengu"
+  },
+  "attack" : 4100,
+  "defense" : 3775,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 68,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "因幡白兔",
+    "jp" : "因幡の白兎",
+    "en" : "Hare of Inaba"
+  },
+  "attack" : 4050,
+  "defense" : 3263,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖詩",
+      "jp" : "聖なる歌声",
+      "en" : "Divine Hymn"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 69,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "靜蝙蝠扇",
+    "jp" : "静の蝙蝠扇",
+    "en" : "Sensu"
+  },
+  "attack" : 4210,
+  "defense" : 4228,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "金蟬脫殼",
+      "jp" : "空蝉(うつせみ)",
+      "en" : "Beneath the Skin"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 70,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "貓妖",
+    "jp" : "ケットシー",
+    "en" : "Cat Sith"
+  },
+  "attack" : 4670,
+  "defense" : 3768,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "貓的呼喚",
+      "jp" : "猫なで声",
+      "en" : "Catcall"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 71,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鈴鹿御前",
+    "jp" : "鈴鹿御前",
+    "en" : "Lady Suzuka"
+  },
+  "attack" : 3490,
+  "defense" : 4001,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 73,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "弓靈",
+    "jp" : "与一の弓",
+    "en" : "Kyu"
+  },
+  "attack" : 3300,
+  "defense" : 4200,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "無情重擊",
+      "jp" : "乱れ撃ち",
+      "en" : "Relentless Pounding"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 74,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鈴鹿御前",
+    "jp" : "鈴鹿御前",
+    "en" : "Lady Suzuka"
+  },
+  "attack" : 7290,
+  "defense" : 7725,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "奇蹟治癒",
+      "jp" : "神秘の妙薬",
+      "en" : "Miracle Cure"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 76,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "弓靈",
+    "jp" : "与一の弓",
+    "en" : "Kyu"
+  },
+  "attack" : 5890,
+  "defense" : 8410,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "狙撃",
+      "jp" : "狙撃",
+      "en" : "Sharpshooting"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 77,
+  "attribute" : 2,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "白天使",
+    "jp" : "白天使",
+    "en" : "White Angel"
+  },
+  "attack" : 2340,
+  "defense" : 3060,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖詩",
+      "jp" : "聖なる歌声",
+      "en" : "Divine Hymn"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 78,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "四谷阿岩",
+    "jp" : "四ツ谷お岩",
+    "en" : "Oiwa Yotsuya"
+  },
+  "attack" : 3540,
+  "defense" : 4560,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "公主的眼淚",
+      "jp" : "乙女の涙",
+      "en" : "Princess's Tears"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 79,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "麝",
+    "jp" : "ムスク",
+    "en" : "Musk"
+  },
+  "attack" : 8350,
+  "defense" : 8000,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "白麝香精",
+      "jp" : "ムスク・エッセンス",
+      "en" : "Musk Essence"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 80,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "琥珀",
+    "jp" : "アンバー",
+    "en" : "Amber"
+  },
+  "attack" : 7600,
+  "defense" : 7800,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "琥珀精",
+      "jp" : "アンバー・エッセンス",
+      "en" : "Amber Essence"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 81,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "玉桂",
+    "jp" : "シナモン",
+    "en" : "Cinnamon"
+  },
+  "attack" : 4000,
+  "defense" : 3600,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "玉桂精",
+      "jp" : "シナモン・エッセンス",
+      "en" : "Cinnamon Essence"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 82,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "弗蘭肯 1 號",
+    "jp" : "フランケンズNo.1",
+    "en" : "Frankie #1"
+  },
+  "attack" : 7800,
+  "defense" : 5800,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "法蘭基之墓",
+      "jp" : "フランケンズグレイヴ",
+      "en" : "Frankie's Grave"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 83,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "弗蘭肯 2 號",
+    "jp" : "フランケンズNo.2",
+    "en" : "Frankie #2"
+  },
+  "attack" : 3750,
+  "defense" : 3700,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "法蘭基之斧",
+      "jp" : "フランケンズアックス",
+      "en" : "Frankie's Ax"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 84,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "茉莉",
+    "jp" : "ジャスミン",
+    "en" : "Jasmine"
+  },
+  "attack" : 4000,
+  "defense" : 3500,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "茉莉花精",
+      "jp" : "ジャスミン・エッセンス",
+      "en" : "Jasmine Essence"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 85,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "伽拉蒂亞",
+    "jp" : "ガラテア",
+    "en" : "Galatea"
+  },
+  "attack" : 9990,
+  "defense" : 9990,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "晶礦護甲",
+      "jp" : "セレナイトガード",
+      "en" : "Selenite Guard"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 86,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "報喪女妖",
+    "jp" : "バンシー",
+    "en" : "Banshee"
+  },
+  "attack" : 4200,
+  "defense" : 4200,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "淚水潰堤",
+      "jp" : "大泣き",
+      "en" : "Floods of Tears"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 87,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "香子蘭",
+    "jp" : "ヴァニラ",
+    "en" : "Vanilla"
+  },
+  "attack" : 8800,
+  "defense" : 8800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "香草精",
+      "jp" : "ヴァニラ・エッセンス",
+      "en" : "Vanilla Essence"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 89,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "反枕",
+    "jp" : "枕返し",
+    "en" : "Pillow Phantom"
+  },
+  "attack" : 1300,
+  "defense" : 1400,
+  "spirit" : 5,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 90,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "鼠幫嘍囉",
+    "jp" : "旧鼠(きゅうそ) メンバー",
+    "en" : "Rat Clan Henchman"
+  },
+  "attack" : 2000,
+  "defense" : 1780,
+  "spirit" : 7,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 91,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "鐮鼬",
+    "jp" : "かまいたち",
+    "en" : "Wind Weasel"
+  },
+  "attack" : 1800,
+  "defense" : 1440,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 92,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "高等精靈",
+    "jp" : "ハイエルフ",
+    "en" : "High Elf"
+  },
+  "attack" : 6530,
+  "defense" : 5283,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 94,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "狗妖",
+    "jp" : "クーシー",
+    "en" : "Cu Sith"
+  },
+  "attack" : 4870,
+  "defense" : 5225,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰慄之嗥",
+      "jp" : "戦慄の唸り声",
+      "en" : "Hair-Raising Howl"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 95,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "黑精靈",
+    "jp" : "ダークエルフ",
+    "en" : "Dark Elf"
+  },
+  "attack" : 7100,
+  "defense" : 5275,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 96,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "鼠幫頭頭",
+    "jp" : "旧鼠(きゅうそ) リーダー",
+    "en" : "Rat Clan Boss"
+  },
+  "attack" : 3950,
+  "defense" : 3070,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "虛張聲勢",
+      "jp" : "はったり",
+      "en" : "Bluff"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 101,
+  "attribute" : 2,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "楓",
+    "jp" : "女忍 カエデ",
+    "en" : "Kaede"
+  },
+  "attack" : 900,
+  "defense" : 720,
+  "spirit" : 3,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 102,
+  "attribute" : 3,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "飛鏢女",
+    "jp" : "ダーツ",
+    "en" : "Dartz"
+  },
+  "attack" : 2400,
+  "defense" : 1920,
+  "spirit" : 8,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 103,
+  "attribute" : 3,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "手指虎",
+    "jp" : "メタルナックル",
+    "en" : "Ferris"
+  },
+  "attack" : 2060,
+  "defense" : 2800,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 104,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "娜塔莉奈浮",
+    "jp" : "スペツナズナイフ",
+    "en" : "Natalia Nyfe"
+  },
+  "attack" : 2350,
+  "defense" : 2510,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 105,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "山崎烝",
+    "jp" : "新撰組 山崎烝",
+    "en" : "Susumu Yamazaki"
+  },
+  "attack" : 2830,
+  "defense" : 2030,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 106,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "西維亞",
+    "jp" : "銀のスプーン",
+    "en" : "Sylvia Spoon"
+  },
+  "attack" : 2160,
+  "defense" : 2160,
+  "spirit" : 8,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 109,
+  "attribute" : 3,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "芭貝塔",
+    "jp" : "自動拳銃 ベルベッタ",
+    "en" : "Barbetta"
+  },
+  "attack" : 1510,
+  "defense" : 1370,
+  "spirit" : 6,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 111,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "芭貝塔",
+    "jp" : "自動拳銃 ベルベッタ",
+    "en" : "Barbetta"
+  },
+  "attack" : 3190,
+  "defense" : 2750,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "烈火鬥氣",
+      "jp" : "烈火の闘気",
+      "en" : "Fiery Spirit"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 128,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "芬妮爾",
+    "jp" : "フェンリル",
+    "en" : "Fenrir"
+  },
+  "attack" : 5283,
+  "defense" : 6530,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "魔狼之牙",
+      "jp" : "魔狼の牙",
+      "en" : "Werewolf Fang"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 129,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "女武神",
+    "jp" : "ヴァルキリー",
+    "en" : "Valkyrie"
+  },
+  "attack" : 7010,
+  "defense" : 9400,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "勝利之翼",
+      "jp" : "勝利の翼",
+      "en" : "Wings of Victory"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 130,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "女武神",
+    "jp" : "ヴァルキリー",
+    "en" : "Valkyrie"
+  },
+  "attack" : 13300,
+  "defense" : 11200,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰爭女神回歸",
+      "jp" : "戦女神の帰還",
+      "en" : "War Goddess's Return"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 131,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "大般若長光",
+    "jp" : "大般若長光",
+    "en" : "Nagamitsu"
+  },
+  "attack" : 9000,
+  "defense" : 9000,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "強光",
+      "jp" : "六百貫の輝き",
+      "en" : "Heavy Glow"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 132,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "大般若長光",
+    "jp" : "大般若長光",
+    "en" : "Nagamitsu"
+  },
+  "attack" : 9730,
+  "defense" : 11060,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "斬殺亂刃",
+      "jp" : "斬殺乱れ刃",
+      "en" : "Slashing Blade"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 133,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "夜叉",
+    "jp" : "夜叉",
+    "en" : "Yasha"
+  },
+  "attack" : 9500,
+  "defense" : 8800,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "鬼族之傲",
+      "jp" : "鬼族の誇り",
+      "en" : "Daemon's Pride"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 134,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "大惡魔",
+    "jp" : "アークデーモン",
+    "en" : "Arch-Daemon"
+  },
+  "attack" : 6150,
+  "defense" : 4980,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "惡的陶醉",
+      "jp" : "悪の陶酔",
+      "en" : "Intoxication"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 135,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "黛芬妮",
+    "jp" : "ダフネ",
+    "en" : "Daphne"
+  },
+  "attack" : 5550,
+  "defense" : 8150,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "葉隱術",
+      "jp" : "木ノ葉隠れ",
+      "en" : "Leafy Shroud"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 136,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "天邪鬼",
+    "jp" : "あまのじゃく",
+    "en" : "Amanojaku"
+  },
+  "attack" : 3263,
+  "defense" : 4050,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "疑心暗鬼",
+      "jp" : "疑心暗鬼",
+      "en" : "Paranoia"
+    },
+    "type" : 2,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 137,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "巴薩克",
+    "jp" : "バーサーカー",
+    "en" : "Berserker"
+  },
+  "attack" : 9500,
+  "defense" : 9200,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "暴走",
+      "jp" : "狂暴化",
+      "en" : "Frenzy"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 138,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "暴君尼祿",
+    "jp" : "皇帝ネロ",
+    "en" : "Emperor Nero"
+  },
+  "attack" : 12050,
+  "defense" : 8800,
+  "spirit" : 32,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "王者之審美眼",
+      "jp" : "王者の審美眼",
+      "en" : "Royal Tastes"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 139,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "惠比壽",
+    "jp" : "恵比寿",
+    "en" : "Ebisu"
+  },
+  "attack" : 4870,
+  "defense" : 5255,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "Live MC",
+      "jp" : "ライブMC",
+      "en" : "Live MC"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 140,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "大黑天",
+    "jp" : "大黒天",
+    "en" : "Daikokuten"
+  },
+  "attack" : 5255,
+  "defense" : 4870,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "獨奏之鼓",
+      "jp" : "ドラム・ソロ",
+      "en" : "Drum Solo"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 141,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "天使長",
+    "jp" : "アークエンジェル",
+    "en" : "Archangel"
+  },
+  "attack" : 4010,
+  "defense" : 3490,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天使之息",
+      "jp" : "エンジェル・ブレス",
+      "en" : "Angel Breath"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 142,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "貂蟬",
+    "jp" : "貂蝉(ちょうせん)",
+    "en" : "Diaochan"
+  },
+  "attack" : 5218,
+  "defense" : 6470,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "狂舞",
+      "jp" : "連環の舞",
+      "en" : "Wild Dance"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 143,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "寧寧",
+    "jp" : "ねね",
+    "en" : "Nene"
+  },
+  "attack" : 5900,
+  "defense" : 6450,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰國斥侯",
+      "jp" : "戦国スカウト",
+      "en" : "Sengoku Scout"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 144,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "流星錘",
+    "jp" : "モーニング・スター",
+    "en" : "Starla"
+  },
+  "attack" : 4110,
+  "defense" : 4890,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "漂亮一擊",
+      "jp" : "クリーンヒット",
+      "en" : "Clean Hit"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 145,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "拉提提亞",
+    "jp" : "狙撃銃 レティシア",
+    "en" : "Laetitia"
+  },
+  "attack" : 4600,
+  "defense" : 4400,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "光學瞄準",
+      "jp" : "光学照準",
+      "en" : "Optical Sight"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 146,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "三叉戟",
+    "jp" : "トライデント",
+    "en" : "Trident"
+  },
+  "attack" : 5100,
+  "defense" : 5100,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "海神加護",
+      "jp" : "水神の加護",
+      "en" : "Neptune's Blessing"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 70
+  }
+}, {
+  "id" : 147,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鏈鋸珍",
+    "jp" : "チェーンソー",
+    "en" : "Jane Saw"
+  },
+  "attack" : 3500,
+  "defense" : 4000,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "旋轉護衛",
+      "jp" : "スピン★ガード",
+      "en" : "Spinning Guard"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 148,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鏈鋸珍",
+    "jp" : "チェーンソー",
+    "en" : "Jane Saw"
+  },
+  "attack" : 8500,
+  "defense" : 8500,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "環形刀刃",
+      "jp" : "ブレード★ディスク",
+      "en" : "Circular Blade"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "19",
+    "frequency" : 50
+  }
+}, {
+  "id" : 149,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "如意棒",
+    "jp" : "如意棒",
+    "en" : "Ryui Bang"
+  },
+  "attack" : 5600,
+  "defense" : 8250,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "如意旋風",
+      "jp" : "如意旋風",
+      "en" : "Mighty Whirlwind"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 70
+  }
+}, {
+  "id" : 150,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "米莉",
+    "jp" : "ミーナ",
+    "en" : "Milly"
+  },
+  "attack" : 3400,
+  "defense" : 3400,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "金蘑菇加護",
+      "jp" : "金ノコッチの加護",
+      "en" : "Gold Mushy's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 153,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "藍天使",
+    "jp" : "青天使",
+    "en" : "Blue Angel"
+  },
+  "attack" : 2060,
+  "defense" : 2260,
+  "spirit" : 8,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖詩",
+      "jp" : "聖なる歌声",
+      "en" : "Divine Hymn"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 154,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "九天玄女",
+    "jp" : "九天玄女",
+    "en" : "Xuan Nü"
+  },
+  "attack" : 2350,
+  "defense" : 2350,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "闇之搖籃曲",
+      "jp" : "闇の子守歌",
+      "en" : "Shadow Lullaby"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 155,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "政宗燭台切",
+    "jp" : "政宗の燭台切",
+    "en" : "Kiri"
+  },
+  "attack" : 8250,
+  "defense" : 6000,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "烈火鬥氣",
+      "jp" : "烈火の闘気",
+      "en" : "Fiery Spirit"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 159,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "巫女薙刀",
+    "jp" : "巫女の薙刀",
+    "en" : "Naginata"
+  },
+  "attack" : 4400,
+  "defense" : 4600,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "八相之構",
+      "jp" : "八相の構え",
+      "en" : "Aura Posture"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 162,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "輓安瑪莉",
+    "jp" : "ナイトメア",
+    "en" : "Mary Night"
+  },
+  "attack" : 6200,
+  "defense" : 6200,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 163,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "傀儡師",
+    "jp" : "傀儡師(くぐつし)",
+    "en" : "The Puppeteer"
+  },
+  "attack" : 6200,
+  "defense" : 6200,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 164,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "管家史都華",
+    "jp" : "執事ボット キラ(違反)",
+    "en" : "Stewart"
+  },
+  "attack" : 4750,
+  "defense" : 4750,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 165,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "皮爾‧羅",
+    "jp" : "ブラッドピエロ",
+    "en" : "Pierre Row"
+  },
+  "attack" : 8250,
+  "defense" : 8250,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "血魔法",
+      "jp" : "ブラッドマジック",
+      "en" : "Blood Magic"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 166,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "皮革馬利翁",
+    "jp" : "ピグマリオン",
+    "en" : "Pygmalion"
+  },
+  "attack" : 8250,
+  "defense" : 8250,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "人偶之愛",
+      "jp" : "人・形・愛",
+      "en" : "Doll Lover"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 167,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "美樂蒂-E",
+    "jp" : "オランピア",
+    "en" : "Melod-E"
+  },
+  "attack" : 8250,
+  "defense" : 8250,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "自動機",
+      "jp" : "オートマタ",
+      "en" : "Automata"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 168,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "布蘭達",
+    "jp" : "手配犯ブレンダ",
+    "en" : "Brenda"
+  },
+  "attack" : 5000,
+  "defense" : 5750,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 169,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "克里夫",
+    "jp" : "手配犯クリフォード",
+    "en" : "Clifford"
+  },
+  "attack" : 5750,
+  "defense" : 5000,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "虛張聲勢",
+      "jp" : "はったり",
+      "en" : "Bluff"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 170,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "布袋",
+    "jp" : "布袋",
+    "en" : "Hotei"
+  },
+  "attack" : 9150,
+  "defense" : 9450,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "豎琴獨奏",
+      "jp" : "ハープソロ",
+      "en" : "Harp Solo"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 171,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "阿嘉莎",
+    "jp" : "攻撃ヘリ アガサ",
+    "en" : "Agatha"
+  },
+  "attack" : 4900,
+  "defense" : 4600,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "鍊槍",
+      "jp" : "チェーンガン",
+      "en" : "Chaingun"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 172,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "阿嘉莎 2",
+    "jp" : "攻撃ヘリ アガサ改",
+    "en" : "Agatha Mk. 2"
+  },
+  "attack" : 9500,
+  "defense" : 7800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "地獄之火",
+      "jp" : "ヘルファイア",
+      "en" : "Hellfire"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 173,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "煙花",
+    "jp" : "スターマイン",
+    "en" : "Starburst"
+  },
+  "attack" : 9750,
+  "defense" : 9600,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "煙花",
+      "jp" : "スターマイン",
+      "en" : "Starburst"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 174,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "管家史都華",
+    "jp" : "執事ボット キラ",
+    "en" : "Stewart"
+  },
+  "attack" : 6200,
+  "defense" : 6200,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 175,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "貓又",
+    "jp" : "猫又(ねこまた) あずさ",
+    "en" : "Azusa"
+  },
+  "attack" : 5300,
+  "defense" : 4700,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "放下屠刀",
+      "jp" : "膝で甘える",
+      "en" : "Spare the Rod"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 176,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "花子",
+    "jp" : "ハナコ",
+    "en" : "Hanako"
+  },
+  "attack" : 8000,
+  "defense" : 8000,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "怪談",
+      "jp" : "怪談",
+      "en" : "Horror Story"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 177,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "賈瑞德",
+    "jp" : "凶悪犯 ジャレッド",
+    "en" : "Jared"
+  },
+  "attack" : 9800,
+  "defense" : 8000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "解體",
+      "jp" : "解体",
+      "en" : "Dissolution"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 178,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "風魔手裏剣",
+    "jp" : "風魔手裏剣",
+    "en" : "Fuma Shuriken"
+  },
+  "attack" : 5500,
+  "defense" : 6150,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "迴轉摔",
+      "jp" : "回転投げ",
+      "en" : "Overthrow"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 179,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "萊拉‧維加",
+    "jp" : "ヴェガ姉妹 リラ",
+    "en" : "Lyra Vega"
+  },
+  "attack" : 7250,
+  "defense" : 8080,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "滿天星空",
+      "jp" : "満天の星",
+      "en" : "Starry Night"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 180,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "露西亞‧維加",
+    "jp" : "ヴェガ姉妹 リュート",
+    "en" : "Lucia Vega"
+  },
+  "attack" : 11500,
+  "defense" : 13400,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "宇宙之矢",
+      "jp" : "コズミックアロー",
+      "en" : "Cosmic Arrow"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 181,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鼠姬左那",
+    "jp" : "こまねずみ 左那",
+    "en" : "Mara Mousette"
+  },
+  "attack" : 5200,
+  "defense" : 8300,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "鼠姬的祝福",
+      "jp" : "こまねずみの祝福",
+      "en" : "Mousette's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 182,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "犬姬左吉",
+    "jp" : "こまいぬ 左吉",
+    "en" : "Kay Nine"
+  },
+  "attack" : 8500,
+  "defense" : 5500,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "毛髮直豎",
+      "jp" : "毛を逆立てる",
+      "en" : "Hair-Raiser"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 183,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "狐妖左近",
+    "jp" : "こまきつね 左近",
+    "en" : "Fox Wan"
+  },
+  "attack" : 4500,
+  "defense" : 9800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "狐火",
+      "jp" : "狐火",
+      "en" : "Will-o'-the-Wisp"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 184,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "尤婷 (5 噸)",
+    "jp" : "クルーザー5t",
+    "en" : "Yottie (5 tons)"
+  },
+  "attack" : 9300,
+  "defense" : 8000,
+  "spirit" : 27,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "噴射水流",
+      "jp" : "ジェット水流",
+      "en" : "Jet Stream"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 185,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "尤婷 (40 噸)",
+    "jp" : "クルーザー40t",
+    "en" : "Yottie (40 tons)"
+  },
+  "attack" : 13500,
+  "defense" : 10750,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "機謀巧詐",
+      "jp" : "一本釣り",
+      "en" : "Hook"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 186,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "菊一文字則宗",
+    "jp" : "菊一文字則宗",
+    "en" : "Kiku Ichimonji"
+  },
+  "attack" : 5200,
+  "defense" : 4800,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "局中法度",
+      "jp" : "局中法度",
+      "en" : "Code of the Shinsengumi"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 189,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "天津四",
+    "jp" : "デネブ",
+    "en" : "Deneb"
+  },
+  "attack" : 8300,
+  "defense" : 9000,
+  "spirit" : 27,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天津四之翼",
+      "jp" : "デネブの翼",
+      "en" : "Wings of Deneb"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 190,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "旋棍",
+    "jp" : "トンファー",
+    "en" : "Tong Fa"
+  },
+  "attack" : 8400,
+  "defense" : 8400,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "暖身",
+      "jp" : "準備運動",
+      "en" : "Warm-Up"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 191,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "石田正宗",
+    "jp" : "石田正宗",
+    "en" : "Masumune Ishida"
+  },
+  "attack" : 7400,
+  "defense" : 7550,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "扭腕",
+      "jp" : "小手斬り",
+      "en" : "Wrist Twist"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 192,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "地精",
+    "jp" : "ノーム",
+    "en" : "Gnome"
+  },
+  "attack" : 3600,
+  "defense" : 4200,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大地之惠",
+      "jp" : "大地の恵み",
+      "en" : "Earthly Blessing"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 193,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "安弓",
+    "jp" : "オベロン=ボウ",
+    "en" : "Arko"
+  },
+  "attack" : 10000,
+  "defense" : 10000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "百發百中",
+      "jp" : "百発百中",
+      "en" : "Bullseye"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 194,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "氣精賽兒卡",
+    "jp" : "シルフ=ティファ",
+    "en" : "Cyrca the Sylph"
+  },
+  "attack" : 4400,
+  "defense" : 4400,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "扮裝秀",
+      "jp" : "コスチューム☆プレイ",
+      "en" : "Dressing Up"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 195,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "亞利安赫德",
+    "jp" : "アリアンロッド",
+    "en" : "Arianrhod"
+  },
+  "attack" : 9100,
+  "defense" : 9100,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "白銀之輪",
+      "jp" : "白銀の車輪",
+      "en" : "Wheel of Silver"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 196,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "溫蒂妮",
+    "jp" : "ウンディーネ",
+    "en" : "Undine"
+  },
+  "attack" : 6500,
+  "defense" : 7500,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "疾風驟雨",
+      "jp" : "スコール",
+      "en" : "Dramatic Downpour"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 197,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "忒提斯",
+    "jp" : "テティス",
+    "en" : "Thetis"
+  },
+  "attack" : 8000,
+  "defense" : 10500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "渦潮",
+      "jp" : "渦潮(うずしお)",
+      "en" : "Wild Whirlpool"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 198,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "泰坦妮婭",
+    "jp" : "ティターニア",
+    "en" : "Titania"
+  },
+  "attack" : 7600,
+  "defense" : 8400,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女王的激勵",
+      "jp" : "女王の激励",
+      "en" : "Queenly Encouragement"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 199,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "泰坦妮婭",
+    "jp" : "ティターニア",
+    "en" : "Titania"
+  },
+  "attack" : 8800,
+  "defense" : 12500,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女王的祝福",
+      "jp" : "女王の祝福",
+      "en" : "A Queen's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 200,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "氣精傑菲爾",
+    "jp" : "シルフ=ゼファ",
+    "en" : "Zephyr the Sylph"
+  },
+  "attack" : 5800,
+  "defense" : 7800,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "神風",
+      "jp" : "リスペクト☆風神",
+      "en" : "Divine Wind"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 201,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "沙羅曼達",
+    "jp" : "サラマンダー",
+    "en" : "Salamander"
+  },
+  "attack" : 7900,
+  "defense" : 2800,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火柱",
+      "jp" : "火柱",
+      "en" : "Flame Column"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 202,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "奧布朗",
+    "jp" : "オベロン",
+    "en" : "Oberon"
+  },
+  "attack" : 8800,
+  "defense" : 8800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖精王的威光",
+      "jp" : "妖精王の威光",
+      "en" : "King's Majesty"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 203,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "薔薇鞭",
+    "jp" : "ローズウィップ",
+    "en" : "Rose Whip"
+  },
+  "attack" : 8150,
+  "defense" : 8350,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "薔薇鞭",
+      "jp" : "ローズウィップ",
+      "en" : "Rose Whip"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 215,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "露露",
+    "jp" : "マスカレードマスク",
+    "en" : "Lulu"
+  },
+  "attack" : 6400,
+  "defense" : 6400,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "魔術偽裝",
+      "jp" : "マスカレード",
+      "en" : "Magic Masquerade"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 216,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "地獄犬",
+    "jp" : "ヘルハウンド",
+    "en" : "Hellhound"
+  },
+  "attack" : 6400,
+  "defense" : 6400,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "追跡",
+      "jp" : "追跡",
+      "en" : "Hot Pursuit"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 217,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "波莉亞胡",
+    "jp" : "ポリアフ",
+    "en" : "Poli'ahu"
+  },
+  "attack" : 4750,
+  "defense" : 4750,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 218,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "姬亞拉",
+    "jp" : "女戦士ギアラ",
+    "en" : "Giara"
+  },
+  "attack" : 10000,
+  "defense" : 10000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰士的決心",
+      "jp" : "戦士の意地",
+      "en" : "Knight's Resolve"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 219,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "紅玉‧伽妮特",
+    "jp" : "カーバンクル=ザクロ",
+    "en" : "Carbuncle Garnet"
+  },
+  "attack" : 10000,
+  "defense" : 10000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "紅玉之禮",
+      "jp" : "ザクロ☆ジェム",
+      "en" : "Gift of Garnet"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 220,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "波克",
+    "jp" : "パック",
+    "en" : "Puck"
+  },
+  "attack" : 13450,
+  "defense" : 11750,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "詭計之星",
+      "jp" : "トリック☆スター",
+      "en" : "Trick Star"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 221,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "絡新婦",
+    "jp" : "絡新婦(じょろうぐも)",
+    "en" : "Jorogumo"
+  },
+  "attack" : 11500,
+  "defense" : 7800,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "蜘蛛絲",
+      "jp" : "蜘蛛の糸",
+      "en" : "Silken Thread"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 222,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "船靈",
+    "jp" : "船霊(ふなだま)",
+    "en" : "Sayla"
+  },
+  "attack" : 6000,
+  "defense" : 6500,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大漁旗",
+      "jp" : "大漁旗",
+      "en" : "Big Catch Flag"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 223,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "戰鬥機麗絲嘉",
+    "jp" : "戦闘機 リツカ",
+    "en" : "Ritsuka"
+  },
+  "attack" : 8800,
+  "defense" : 9200,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "急旋回",
+      "jp" : "急旋回",
+      "en" : "Sudden Diversion"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 224,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "天之尾羽張",
+    "jp" : "天之尾羽張",
+    "en" : "Ameno Ohabari"
+  },
+  "attack" : 9200,
+  "defense" : 2650,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "時之風",
+      "jp" : "時ツ風",
+      "en" : "Wind of Time"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 225,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "天之尾羽張",
+    "jp" : "天之尾羽張",
+    "en" : "Ameno Ohabari"
+  },
+  "attack" : 13800,
+  "defense" : 5560,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天之風",
+      "jp" : "天ツ風",
+      "en" : "Wind of Heaven"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 226,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "伊弗利特",
+    "jp" : "イフリート",
+    "en" : "Ifrit"
+  },
+  "attack" : 7480,
+  "defense" : 6800,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火幕",
+      "jp" : "炎の煙幕",
+      "en" : "Curtain of Flame"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 227,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "伊弗利特",
+    "jp" : "イフリート",
+    "en" : "Ifrit"
+  },
+  "attack" : 9265,
+  "defense" : 8925,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "獄炎加護",
+      "jp" : "獄炎の加護",
+      "en" : "Hellfire's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 228,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "維納斯",
+    "jp" : "ヴィーナス",
+    "en" : "Venus"
+  },
+  "attack" : 7650,
+  "defense" : 7525,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛神面紗",
+      "jp" : "愛神のベール",
+      "en" : "Veil of Eros"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 229,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "維納斯",
+    "jp" : "ヴィーナス",
+    "en" : "Venus"
+  },
+  "attack" : 9775,
+  "defense" : 9775,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛與美的鼓舞",
+      "jp" : "愛と美の鼓舞",
+      "en" : "Inspirational Beauty"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 230,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "史黛拉",
+    "jp" : "ステルス戦闘機",
+    "en" : "Stella"
+  },
+  "attack" : 7523,
+  "defense" : 7650,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "匿蹤",
+      "jp" : "ステルス",
+      "en" : "Stealth"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 231,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "史黛拉 2",
+    "jp" : "ステルス戦闘機改",
+    "en" : "Stella Mk. 2"
+  },
+  "attack" : 10200,
+  "defense" : 11050,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "超音速巡航",
+      "jp" : "超音速巡航",
+      "en" : "Supersonic Cruise"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 232,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "雪女",
+    "jp" : "ゆきおんな",
+    "en" : "Snow Woman"
+  },
+  "attack" : 4233,
+  "defense" : 5228,
+  "spirit" : 16,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "暴風雪",
+      "jp" : "猛吹雪",
+      "en" : "Brutal Blizzard"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 233,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "宮本武藏",
+    "jp" : "宮本武蔵",
+    "en" : "Musashi Miyamoto"
+  },
+  "attack" : 5355,
+  "defense" : 5355,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "二刀流",
+      "jp" : "二刀流",
+      "en" : "Double Blades"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 234,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "貝茲",
+    "jp" : "スティンガー",
+    "en" : "Baz"
+  },
+  "attack" : 5355,
+  "defense" : 5610,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "紅外線探測",
+      "jp" : "赤外線探知",
+      "en" : "Infrared Detection"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 237,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "牡丹燈籠阿露",
+    "jp" : "牡丹灯籠お露",
+    "en" : "Otsuyu"
+  },
+  "attack" : 6750,
+  "defense" : 3500,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "木屐之聲",
+      "jp" : "下駄の音",
+      "en" : "The Sound of Sandals"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 238,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "牡丹燈籠阿露",
+    "jp" : "牡丹灯籠お露",
+    "en" : "Otsuyu"
+  },
+  "attack" : 11400,
+  "defense" : 5000,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "符咒走！",
+      "jp" : "御札はがし",
+      "en" : "Charms Begone!"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 239,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "2D 萬花筒",
+    "jp" : "次元の万華鏡 二次元",
+    "en" : "2D Kal"
+  },
+  "attack" : 3500,
+  "defense" : 7000,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "2D 大驚奇",
+      "jp" : "2D Fantasia",
+      "en" : "2D Fantasia"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 240,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "3D 萬花筒",
+    "jp" : "次元の万華鏡 三次元",
+    "en" : "3D Kal"
+  },
+  "attack" : 11500,
+  "defense" : 13800,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "3D 大驚奇",
+      "jp" : "3D Fantasia",
+      "en" : "3D Fantasia"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 241,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "黑電話",
+    "jp" : "黒電話",
+    "en" : "Cordie"
+  },
+  "attack" : 6300,
+  "defense" : 8300,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "答錄機",
+      "jp" : "居留守",
+      "en" : "Answering Machine"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 242,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "小聰明蕾娜",
+    "jp" : "スマホ=Rena",
+    "en" : "Smartie"
+  },
+  "attack" : 8100,
+  "defense" : 8100,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "高速檢索",
+      "jp" : "高速検索",
+      "en" : "Speedy Search"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 243,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "重戰車蒂妲",
+    "jp" : "重戦車 ティルダ",
+    "en" : "Tilda"
+  },
+  "attack" : 12250,
+  "defense" : 12400,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "砲彈裝填",
+      "jp" : "砲弾装填",
+      "en" : "Shellfire"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 244,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "亞斯達洛",
+    "jp" : "アスタロト",
+    "en" : "Astaroth"
+  },
+  "attack" : 12550,
+  "defense" : 12200,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "魔鬼代言人",
+      "jp" : "ディアボロス",
+      "en" : "Dastardly Diablo"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 245,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "羅賓漢",
+    "jp" : "ロビン・フッド",
+    "en" : "Robin Hood"
+  },
+  "attack" : 12350,
+  "defense" : 12300,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "神射狙擊",
+      "jp" : "スナイパー",
+      "en" : "Sniper Skills"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 246,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "比蒙巨獸 (亂)",
+    "jp" : "ベヒモス[乱]",
+    "en" : "Behemoth (Rage)"
+  },
+  "attack" : 13600,
+  "defense" : 4500,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "衝撞",
+      "jp" : "あばれる",
+      "en" : "Rampage"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 247,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "比蒙巨獸 (鎮)",
+    "jp" : "ベヒモス[鎮]",
+    "en" : "Behemoth (Calm)"
+  },
+  "attack" : 4500,
+  "defense" : 9500,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "雷球",
+      "jp" : "まるまる",
+      "en" : "Thunderball"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 248,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "(尚未定案)",
+    "jp" : "アイギス",
+    "en" : "(NOT FINALIZED)"
+  },
+  "attack" : 8800,
+  "defense" : 12750,
+  "spirit" : 34,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "艾吉斯之盾",
+      "jp" : "アイギスの盾",
+      "en" : "Shield of Aegis"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 249,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "(尚未定案)",
+    "jp" : "ハニエル",
+    "en" : "(NOT FINALIZED)"
+  },
+  "attack" : 8500,
+  "defense" : 8500,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖光",
+      "jp" : "聖なる光",
+      "en" : "Divine Light"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 250,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "亞麥蒙",
+    "jp" : "アマイモン",
+    "en" : "Amaymon"
+  },
+  "attack" : 8300,
+  "defense" : 8100,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "王室貪婪",
+      "jp" : "王子の強欲",
+      "en" : "Royal Desire"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 251,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "(尚未定案)",
+    "jp" : "ベヒモスの首輪",
+    "en" : "(NOT FINALIZED)"
+  },
+  "attack" : 6050,
+  "defense" : 5950,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "尖刺",
+      "jp" : "スパイク",
+      "en" : "Spike"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 252,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "雷達",
+    "jp" : "ベヒモスレーダー",
+    "en" : "Radar"
+  },
+  "attack" : 8200,
+  "defense" : 8200,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "超高感度",
+      "jp" : "超高感度モード",
+      "en" : "Super Sensitivity"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 253,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "布莉吉特",
+    "jp" : "ブリギット=モノ",
+    "en" : "Brigit"
+  },
+  "attack" : 7500,
+  "defense" : 9200,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "新生之息",
+      "jp" : "新生の息吹",
+      "en" : "Breath of New Life"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 20
+  }
+}, {
+  "id" : 254,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "牛郎",
+    "jp" : "牽牛(けんぎゅう)",
+    "en" : "Kengyu"
+  },
+  "attack" : 8100,
+  "defense" : 8300,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "牧人之傲",
+      "jp" : "牛飼いのプライド",
+      "en" : "Cowherd's Pride"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 256,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "佐保公主",
+    "jp" : "佐保姫(さほひめ)",
+    "en" : "Princess Saho"
+  },
+  "attack" : 9400,
+  "defense" : 10700,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "春曉",
+      "jp" : "春暁",
+      "en" : "Spring Dawn"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 70
+  }
+}, {
+  "id" : 257,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "龍田公主",
+    "jp" : "竜田姫(たつたひめ)",
+    "en" : "Princess Tatsuta"
+  },
+  "attack" : 10700,
+  "defense" : 9400,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "秋曉",
+      "jp" : "秋暁",
+      "en" : "Autumn Dawn"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 70
+  }
+}, {
+  "id" : 258,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "厄運書信孃",
+    "jp" : "不幸の手紙",
+    "en" : "Miss Eve"
+  },
+  "attack" : 8500,
+  "defense" : 7000,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "不祥之信",
+      "jp" : "不幸の手紙",
+      "en" : "Unlucky Letter"
+    },
+    "type" : 2,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 259,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "幸運書信孃",
+    "jp" : "幸福の手紙",
+    "en" : "Jane Mail"
+  },
+  "attack" : 7000,
+  "defense" : 8500,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幸運之信",
+      "jp" : "幸福の手紙",
+      "en" : "Lucky Letter"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 260,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "座敷童子",
+    "jp" : "座敷童子",
+    "en" : "Zashiki Warashi"
+  },
+  "attack" : 5500,
+  "defense" : 5500,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "球球遊戲",
+      "jp" : "まりあそび",
+      "en" : "Ballgame"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 261,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "艾莉娜",
+    "jp" : "水中銃 アリーナ",
+    "en" : "Irina"
+  },
+  "attack" : 6750,
+  "defense" : 4200,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "水之狩獵者",
+      "jp" : "ウォーターハント",
+      "en" : "Water Hunter"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 262,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "布都御魂劍",
+    "jp" : "布都御魂剣",
+    "en" : "Futsu-No-Mitama"
+  },
+  "attack" : 11800,
+  "defense" : 5600,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "心眼",
+      "jp" : "心眼",
+      "en" : "Mind's Eye"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "19",
+    "frequency" : 20
+  }
+}, {
+  "id" : 263,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "幽靈船混亂號 (亂)",
+    "jp" : "幽霊船ケイオス[乱]",
+    "en" : "Ghost Ship Chaos (Rage)"
+  },
+  "attack" : 13650,
+  "defense" : 6000,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幽靈船的詛咒",
+      "jp" : "幽霊船の呪い",
+      "en" : "Ghost Ship's Curse"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 70
+  }
+}, {
+  "id" : 264,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "幽靈船混亂號 (鎮)",
+    "jp" : "幽霊船ケイオス[鎮]",
+    "en" : "Ghost Ship Chaos (Calm)"
+  },
+  "attack" : 8750,
+  "defense" : 8750,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰備狀態",
+      "jp" : "臨戦態勢",
+      "en" : "War Footing"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 265,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "邦妮安",
+    "jp" : "女海賊 ダリアン",
+    "en" : "Bonnie Anne"
+  },
+  "attack" : 8800,
+  "defense" : 12750,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "海盜本事",
+      "jp" : "パイレーツ",
+      "en" : "Piracy"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 266,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "錨姬",
+    "jp" : "ラックの錨(いかり)",
+    "en" : "Anne Corr"
+  },
+  "attack" : 5500,
+  "defense" : 10750,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "無常運命",
+      "jp" : "ラックの気まぐれ",
+      "en" : "Fickle Fortune"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 20
+  }
+}, {
+  "id" : 267,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "加農砲",
+    "jp" : "破邪の大砲",
+    "en" : "Kanon"
+  },
+  "attack" : 10500,
+  "defense" : 200,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火藥時鐘",
+      "jp" : "午砲(ごほう)",
+      "en" : "Gunpowder Clock"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 268,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "喬利羅傑",
+    "jp" : "海賊 ベンジャミン",
+    "en" : "Jolly Rodger"
+  },
+  "attack" : 8300,
+  "defense" : 8100,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "船長的呼喚",
+      "jp" : "キャプテン★コール",
+      "en" : "Captain's Call"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 269,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "海妖",
+    "jp" : "セイレーン",
+    "en" : "Siren"
+  },
+  "attack" : 8200,
+  "defense" : 8200,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "海妖之歌",
+      "jp" : "セイレーンの歌声",
+      "en" : "Siren's Song"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 270,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "領航員克拉克",
+    "jp" : "航海士 クラーク",
+    "en" : "Navvy"
+  },
+  "attack" : 2500,
+  "defense" : 1800,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "觀星航海術",
+      "jp" : "星の航海術",
+      "en" : "Stellar Navigation"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 271,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "魔法瓶",
+    "jp" : "魔法のボトル",
+    "en" : "Magic Bottle"
+  },
+  "attack" : 8100,
+  "defense" : 8300,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "魔法眼淚",
+      "jp" : "魔法の雫",
+      "en" : "Magic Teardrop"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 272,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "海仙女",
+    "jp" : "ネレイス",
+    "en" : "Nereid"
+  },
+  "attack" : 5800,
+  "defense" : 6100,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "渦潮",
+      "jp" : "渦潮(うずしお)",
+      "en" : "Wild Whirlpool"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 273,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "梅露西",
+    "jp" : "メリジェーヌ",
+    "en" : "Melusine"
+  },
+  "attack" : 5000,
+  "defense" : 7500,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖精之泉",
+      "jp" : "妖精の泉水",
+      "en" : "Fairy Fountain"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 274,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "梅露西",
+    "jp" : "メリジェーヌ",
+    "en" : "Melusine"
+  },
+  "attack" : 8800,
+  "defense" : 11050,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "飄雨的週六",
+      "jp" : "雨の土曜日",
+      "en" : "Rainy Saturday"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 275,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "長宗我部元親 姬若子",
+    "jp" : "長宗我部元親 姫若子",
+    "en" : "Princess Motochika"
+  },
+  "attack" : 6000,
+  "defense" : 3000,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "寒顫",
+      "jp" : "おびえる",
+      "en" : "Shivering Wreck"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 276,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "長宗我部元親 鬼若子",
+    "jp" : "長宗我部元親 鬼若子",
+    "en" : "Demon Motochika"
+  },
+  "attack" : 10800,
+  "defense" : 9500,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰嚎",
+      "jp" : "鬨の声",
+      "en" : "War Cry"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 277,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "琴古主",
+    "jp" : "琴古主(ことふるぬし)",
+    "en" : "Kotofurunushi"
+  },
+  "attack" : 10450,
+  "defense" : 10450,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "優美旋律",
+      "jp" : "風雅の調べ",
+      "en" : "Elegant Melody"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 20
+  }
+}, {
+  "id" : 301,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "管家史都華 [HW]",
+    "jp" : "執事ボット キラ[HW]",
+    "en" : "Stewart [HW]"
+  },
+  "attack" : 4750,
+  "defense" : 4750,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "白銀亮晶晶",
+      "jp" : "プラスアルファ",
+      "en" : "Silver Sliver"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 302,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鼠幫嘍囉 [HW]",
+    "jp" : "旧鼠 メンバー[HW]",
+    "en" : "Rat Clan Henchman [HW]"
+  },
+  "attack" : 4000,
+  "defense" : 3560,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "虛張聲勢",
+      "jp" : "はったり",
+      "en" : "Bluff"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 303,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鼠幫：心愛 [HW]",
+    "jp" : "旧鼠 心愛[HW]",
+    "en" : "Rat Clan: Koko [HW]"
+  },
+  "attack" : 6850,
+  "defense" : 6850,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 304,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "厄病神 [HW]",
+    "jp" : "厄病神[HW]",
+    "en" : "Goddess of Misfortune [HW]"
+  },
+  "attack" : 7650,
+  "defense" : 6300,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "惡神的宿命",
+      "jp" : "悪神の宿命",
+      "en" : "Evil Destiny"
+    },
+    "type" : 2,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 305,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "窮神 [HW]",
+    "jp" : "貧乏神[HW]",
+    "en" : "Goddess of Poverty [HW]"
+  },
+  "attack" : 7560,
+  "defense" : 8450,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "福神之祝",
+      "jp" : "福の神の祝福",
+      "en" : "Good Fortune"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 306,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鼠幫頭頭 [HW]",
+    "jp" : "旧鼠 リーダー[HW]",
+    "en" : "Rat Clan Boss [HW]"
+  },
+  "attack" : 5250,
+  "defense" : 4000,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻影",
+      "jp" : "ブラフ",
+      "en" : "Phantasm"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 307,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "狗妖 [HW]",
+    "jp" : "クーシー[HW]",
+    "en" : "Cu Sith [HW]"
+  },
+  "attack" : 7700,
+  "defense" : 8300,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰慄之嗥",
+      "jp" : "戦慄の唸り声",
+      "en" : "Hair-Raising Howl"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 308,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "琥珀 [HW]",
+    "jp" : "アンバー[HW]",
+    "en" : "Amber [HW]"
+  },
+  "attack" : 7200,
+  "defense" : 7900,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "琥珀精華",
+      "jp" : "アンバー・コンセントレート",
+      "en" : "Amber Concentrate"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 309,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "麝 [HW]",
+    "jp" : "ムスク[HW]",
+    "en" : "Musk [HW]"
+  },
+  "attack" : 9000,
+  "defense" : 8600,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "麝之精華",
+      "jp" : "ムスク・コンセントレート",
+      "en" : "Musk Concentrate"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 310,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "貓妖 [HW]",
+    "jp" : "ケットシー[HW]",
+    "en" : "Cat Sith [HW]"
+  },
+  "attack" : 8000,
+  "defense" : 8000,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "貓的呼喚",
+      "jp" : "猫なで声",
+      "en" : "Catcall"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 311,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "死神 [HW]",
+    "jp" : "死神[HW]",
+    "en" : "Grim Reaper [HW]"
+  },
+  "attack" : 12666,
+  "defense" : 666,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "最後審判",
+      "jp" : "断罪",
+      "en" : "Final Judgment"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 312,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "尤婷 [HW]",
+    "jp" : "クルーザー[HW]",
+    "en" : "Yottie [HW]"
+  },
+  "attack" : 13800,
+  "defense" : 10900,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "機謀巧詐",
+      "jp" : "一本釣り",
+      "en" : "Hook"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 313,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "萬聖節之塔",
+    "jp" : "ハロウィンタワー",
+    "en" : "Halloween Tower"
+  },
+  "attack" : 8750,
+  "defense" : 8750,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "圍攻",
+      "jp" : "籠城",
+      "en" : "Under Siege"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 314,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "泰坦妮婭 [HW]",
+    "jp" : "ティターニア[HW]",
+    "en" : "Titania [HW]"
+  },
+  "attack" : 9250,
+  "defense" : 9650,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女王的祝福",
+      "jp" : "女王の祝福",
+      "en" : "A Queen's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 317,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "南瓜燈籠",
+    "jp" : "ジャック・オ・ランタン",
+    "en" : "Jack-O-Lantern"
+  },
+  "attack" : 12800,
+  "defense" : 12800,
+  "spirit" : 34,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "南瓜燈籠",
+      "jp" : "ジャック・オ・ランタン",
+      "en" : "Jack-O-Lantern"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 318,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "米諾",
+    "jp" : "僧侶 ミノ",
+    "en" : "Mino"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "高檔",
+      "jp" : "アップスペル",
+      "en" : "Upscale"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 319,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "小女巫",
+    "jp" : "リトルウィッチ",
+    "en" : "Little Witch"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女巫魔藥",
+      "jp" : "魔女の飲み薬",
+      "en" : "Witch's Draught"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 320,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "銘刀虎徹 [HW]",
+    "jp" : "銘刀虎徹[HW]",
+    "en" : "Kotetsu [HW]"
+  },
+  "attack" : 9800,
+  "defense" : 8750,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "烈火鬥氣",
+      "jp" : "烈火の闘気",
+      "en" : "Fiery Spirit"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 321,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "天鈿女命 [HW]",
+    "jp" : "アメノウズメ[HW]",
+    "en" : "Ameno Uzume [HW]"
+  },
+  "attack" : 9500,
+  "defense" : 9400,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰舞",
+      "jp" : "戦いの舞踏",
+      "en" : "War Dance"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 322,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "管狐 [HW]",
+    "jp" : "管狐[HW]",
+    "en" : "Pipe Fox [HW]"
+  },
+  "attack" : 8800,
+  "defense" : 9800,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻惑",
+      "jp" : "幻惑",
+      "en" : "Bewitchment"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 323,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "因幡白兔 [HW]",
+    "jp" : "因幡の白兎[HW]",
+    "en" : "Hare of Inaba [HW]"
+  },
+  "attack" : 6100,
+  "defense" : 3800,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖詩",
+      "jp" : "聖なる歌声",
+      "en" : "Divine Hymn"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 324,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "天邪鬼 [HW]",
+    "jp" : "あまのじゃく[HW]",
+    "en" : "Amanojaku [HW]"
+  },
+  "attack" : 3750,
+  "defense" : 6200,
+  "spirit" : 19,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "天邪鬼",
+      "jp" : "あまのじゃく",
+      "en" : "Amanojaku"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 20
+  }
+}, {
+  "id" : 325,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "流星錘 [HW]",
+    "jp" : "モーニング・スター[HW]",
+    "en" : "Starla [HW]"
+  },
+  "attack" : 5800,
+  "defense" : 6500,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "漂亮一擊",
+      "jp" : "クリーンヒット",
+      "en" : "Clean Hit"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 326,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "菲力浦",
+    "jp" : "ハーメルンのフルート",
+    "en" : "Philipp"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "虛空之境",
+      "jp" : "虚無のしらべ",
+      "en" : "Into the Void"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 327,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "水手雪莉",
+    "jp" : "水夫 シェリー",
+    "en" : "Sherry"
+  },
+  "attack" : 2500,
+  "defense" : 2650,
+  "spirit" : 7,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 341,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鼠幫：心愛",
+    "jp" : "旧鼠(きゅうそ) 心愛",
+    "en" : "Rat Clan: Koko"
+  },
+  "attack" : 4800,
+  "defense" : 4800,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "妖魔嘆息",
+      "jp" : "妖しい吐息",
+      "en" : "Phantom Sigh"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 342,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "可樂小童",
+    "jp" : "コロポックル",
+    "en" : "Koropokkur"
+  },
+  "attack" : 700,
+  "defense" : 900,
+  "spirit" : 3,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 343,
+  "attribute" : 1,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "鳥身女妖",
+    "jp" : "ハーピー",
+    "en" : "Harpy"
+  },
+  "attack" : 2650,
+  "defense" : 2650,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 344,
+  "attribute" : 1,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "鬼火",
+    "jp" : "鬼火",
+    "en" : "Onibi"
+  },
+  "attack" : 2700,
+  "defense" : 2700,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 345,
+  "attribute" : 2,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "朧",
+    "jp" : "女忍 オボロ",
+    "en" : "Aboro"
+  },
+  "attack" : 1300,
+  "defense" : 1400,
+  "spirit" : 5,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "忍法‧朧",
+      "jp" : "忍法・オボロ流",
+      "en" : "Oboro Ninja"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 346,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "紅豆",
+    "jp" : "巫女 あずき",
+    "en" : "Azuki"
+  },
+  "attack" : 3500,
+  "defense" : 4500,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幸運符",
+      "jp" : "守護神符",
+      "en" : "Lucky Charm"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 347,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "霞",
+    "jp" : "巫女 かすみ",
+    "en" : "Kasumi"
+  },
+  "attack" : 4500,
+  "defense" : 3500,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "刀刃神諭",
+      "jp" : "刃の神託",
+      "en" : "Blade Oracle"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 350,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "風車",
+    "jp" : "かざぐるま",
+    "en" : "Pinnie"
+  },
+  "attack" : 3900,
+  "defense" : 3160,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戀人的連結",
+      "jp" : "恋人つなぎ",
+      "en" : "Lovers' Connection"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 351,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "朝食",
+    "jp" : "あさげ",
+    "en" : "Brekkie"
+  },
+  "attack" : 3200,
+  "defense" : 1000,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛的早餐",
+      "jp" : "ラブ☆モーニング",
+      "en" : "Lovers' Breakfast"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 20
+  }
+}, {
+  "id" : 352,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "午食",
+    "jp" : "ひるげ",
+    "en" : "Lunchie"
+  },
+  "attack" : 2760,
+  "defense" : 2760,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛的午餐",
+      "jp" : "ラブ☆ランチ",
+      "en" : "Lovers' Lunch"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 20
+  }
+}, {
+  "id" : 353,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "晚食",
+    "jp" : "ゆうげ",
+    "en" : "Dinnie"
+  },
+  "attack" : 1000,
+  "defense" : 3150,
+  "spirit" : 10,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛的晚餐",
+      "jp" : "ラブ☆ディナー",
+      "en" : "Lovers' Dinner"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 20
+  }
+}, {
+  "id" : 354,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "巨震小槌",
+    "jp" : "打ち出の小槌",
+    "en" : "Thumping Mallet"
+  },
+  "attack" : 2000,
+  "defense" : 4300,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "巨震小槌",
+      "jp" : "打ち出の小槌",
+      "en" : "Thumping Mallet"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 355,
+  "attribute" : 3,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "戰輪",
+    "jp" : "チャクラム",
+    "en" : "Chak"
+  },
+  "attack" : 870,
+  "defense" : 870,
+  "spirit" : 3,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 360,
+  "attribute" : 2,
+  "rarity" : 1,
+  "name" : {
+    "zh_TW" : "激素劍士",
+    "jp" : "剣士 ホルモン",
+    "en" : "Sir Grillalot"
+  },
+  "attack" : 2800,
+  "defense" : 2060,
+  "spirit" : 9,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "沒有技能",
+      "jp" : "特技なし",
+      "en" : "No Skill"
+    }
+  }
+}, {
+  "id" : 361,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "紅天使",
+    "jp" : "赤天使",
+    "en" : "Red Angel"
+  },
+  "attack" : 3610,
+  "defense" : 3610,
+  "spirit" : 14,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "收穫之歌",
+      "jp" : "豊穣の歌声",
+      "en" : "Harvest Song"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 362,
+  "attribute" : 2,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "黑天使",
+    "jp" : "黒天使",
+    "en" : "Black Angel"
+  },
+  "attack" : 4400,
+  "defense" : 2650,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "堅毅之歌",
+      "jp" : "不屈の歌声",
+      "en" : "Song of Fortitude"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 367,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "梅丹佐",
+    "jp" : "メタトロン",
+    "en" : "Metatron"
+  },
+  "attack" : 10950,
+  "defense" : 10950,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "神力覺醒",
+      "jp" : "神力の覚醒",
+      "en" : "Sacred Awakening"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 368,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "比丘尼",
+    "jp" : "八百比丘尼(やおびくに)",
+    "en" : "Bikuni"
+  },
+  "attack" : 10250,
+  "defense" : 11100,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "永劫懺悔",
+      "jp" : "永劫の懺悔",
+      "en" : "Eternal Repentance"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 369,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "瑩火玉",
+    "jp" : "蛍丸(ほたるまる)",
+    "en" : "Flamberge"
+  },
+  "attack" : 11050,
+  "defense" : 10500,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "午夜螢火",
+      "jp" : "蛍火",
+      "en" : "Midnight Glow"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 372,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "斯芬克斯",
+    "jp" : "スフィンクス",
+    "en" : "Sphinx"
+  },
+  "attack" : 13700,
+  "defense" : 13700,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大謎題",
+      "jp" : "なぞなぞ",
+      "en" : "Big Riddle"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 376,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "女武神 -",
+    "jp" : "ヴァルキリー -",
+    "en" : "Valkyrie -"
+  },
+  "attack" : 7010,
+  "defense" : 9400,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰士的決心",
+      "jp" : "戦士の意地",
+      "en" : "Knight's Resolve"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 377,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "女武神 -",
+    "jp" : "ヴァルキリー -",
+    "en" : "Valkyrie -"
+  },
+  "attack" : 13300,
+  "defense" : 11200,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "勝利之翼",
+      "jp" : "勝利の翼",
+      "en" : "Wings of Victory"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 378,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "鏈鋸珍 -",
+    "jp" : "チェーンソー -",
+    "en" : "Jane Saw -"
+  },
+  "attack" : 3500,
+  "defense" : 4000,
+  "spirit" : 13,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰備狀態",
+      "jp" : "臨戦態勢",
+      "en" : "War Footing"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 379,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鏈鋸珍 -",
+    "jp" : "チェーンソー -",
+    "en" : "Jane Saw -"
+  },
+  "attack" : 8500,
+  "defense" : 8500,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "旋轉護衛",
+      "jp" : "スピン★ガード",
+      "en" : "Spinning Guard"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 380,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "黛芬妮 -",
+    "jp" : "ダフネ -",
+    "en" : "Daphne -"
+  },
+  "attack" : 5400,
+  "defense" : 8000,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "葉隱術",
+      "jp" : "木ノ葉隠れ",
+      "en" : "Leafy Shroud"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 381,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "緊那羅",
+    "jp" : "緊那羅(きんなら)",
+    "en" : "Kinnara"
+  },
+  "attack" : 4750,
+  "defense" : 5050,
+  "spirit" : 15,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "強音",
+      "jp" : "フォルテ・ハート",
+      "en" : "Fortissimo"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 383,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "壽老人",
+    "jp" : "寿老人(じゅろうじん)",
+    "en" : "Jurojin"
+  },
+  "attack" : 9500,
+  "defense" : 8800,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "魅惑撥弦",
+      "jp" : "魅惑のピチカート",
+      "en" : "Captivating Pizzicato"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 384,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "福祿壽",
+    "jp" : "福禄寿(ふくろくじゅ)",
+    "en" : "Fukurokuju"
+  },
+  "attack" : 9000,
+  "defense" : 9000,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "安可",
+      "jp" : "アンコール",
+      "en" : "Encore"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 385,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "惹禍精",
+    "jp" : "グレムリン",
+    "en" : "Gremlin"
+  },
+  "attack" : 6450,
+  "defense" : 5900,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "數據銷毀",
+      "jp" : "データクラッシュ",
+      "en" : "Data Crash"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 386,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "青行燈",
+    "jp" : "青行燈(あおあんどん)",
+    "en" : "Aoandon"
+  },
+  "attack" : 9500,
+  "defense" : 7800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "百物語",
+      "jp" : "百物語",
+      "en" : "Encyclopedia"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 387,
+  "attribute" : 3,
+  "rarity" : 2,
+  "name" : {
+    "zh_TW" : "波",
+    "jp" : "クロスボウ",
+    "en" : "Bo"
+  },
+  "attack" : 2350,
+  "defense" : 2350,
+  "spirit" : 12,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "狙擊練習",
+      "jp" : "狙撃練習",
+      "en" : "Shooting Practice"
+    },
+    "type" : 0,
+    "strength" : 2,
+    "frequency" : 50
+  }
+}, {
+  "id" : 388,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "卡史提拉",
+    "jp" : "重力銃 ステラ",
+    "en" : "Castela"
+  },
+  "attack" : 8500,
+  "defense" : 8500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "全部掃射",
+      "jp" : "一斉掃射",
+      "en" : "Spring Clean"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 389,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "克圖格亞",
+    "jp" : "クトゥグア",
+    "en" : "Cthugha"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "熾熱火舞",
+      "jp" : "灼熱炎舞",
+      "en" : "White Hot Dancing Flames"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 390,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "獨角獸",
+    "jp" : "一角獣",
+    "en" : "Unicorn"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "光波",
+      "jp" : "光の波動",
+      "en" : "Wave of Light"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 391,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "光輝之偏方面體",
+    "jp" : "輝くトラペゾヘドロン",
+    "en" : "Shining Trapezohedron"
+  },
+  "attack" : 4500,
+  "defense" : 9000,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "偏方面體",
+      "jp" : "トラペゾヘドロン",
+      "en" : "Trapezohedron"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 398,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "奈亞魯法特 (亂)",
+    "jp" : "ニャルラトホテプ[乱]",
+    "en" : "Nyarlathotep (Wild)"
+  },
+  "attack" : 14500,
+  "defense" : 10200,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "混沌波動",
+      "jp" : "混沌の波動",
+      "en" : "Wave of Purity"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 399,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "奈亞魯法特 (鎮)",
+    "jp" : "ニャルラトホテプ[鎮]",
+    "en" : "Nyarlathotep (Calm)"
+  },
+  "attack" : 13250,
+  "defense" : 12750,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "混沌世界",
+      "jp" : "カオス・ワールド",
+      "en" : "Chaotic World"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 400,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "邪神的面具",
+    "jp" : "邪神の仮面",
+    "en" : "Mask of Mischief"
+  },
+  "attack" : 6150,
+  "defense" : 5700,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "蒙面",
+      "jp" : "ヒドゥンフォース",
+      "en" : "Hidden Face"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 401,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "仙女座",
+    "jp" : "アンドロメダ(銀河)",
+    "en" : "Andromeda"
+  },
+  "attack" : 15000,
+  "defense" : 3800,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "超新星",
+      "jp" : "スーパーノヴァ",
+      "en" : "Supernova"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 402,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "札特瓜",
+    "jp" : "ツァトゥグァ",
+    "en" : "Tsathoggua"
+  },
+  "attack" : 11000,
+  "defense" : 11000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "黑暗之書",
+      "jp" : "暗黒の書",
+      "en" : "Dark Scroll"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 403,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "殺戮者",
+    "jp" : "宇宙銃 スレイ=ガン",
+    "en" : "Slayer"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火力全開模式",
+      "jp" : "フルパワーモード",
+      "en" : "Full Power Mode"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 404,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "瑪莎",
+    "jp" : "異星人 スレイ",
+    "en" : "Marsha"
+  },
+  "attack" : 13800,
+  "defense" : 13800,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "分析",
+      "jp" : "アナライズ",
+      "en" : "Analysis"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 405,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "蘭斯洛特",
+    "jp" : "ランスロット",
+    "en" : "Lancelot"
+  },
+  "attack" : 9200,
+  "defense" : 9700,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "騎士劍技",
+      "jp" : "騎士の剣戟",
+      "en" : "Knight's Swordplay"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 406,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "蘭斯洛特",
+    "jp" : "ランスロット",
+    "en" : "Lancelot"
+  },
+  "attack" : 12700,
+  "defense" : 13700,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大災難",
+      "jp" : "カタストロフィ",
+      "en" : "Catastrophe"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 407,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "無毀的湖光",
+    "jp" : "アロンダイト",
+    "en" : "Arondight"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "無情的一擊",
+      "jp" : "無慈悲な一閃",
+      "en" : "Merciless Glare"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 408,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "無毀的湖光",
+    "jp" : "アロンダイト",
+    "en" : "Arondight"
+  },
+  "attack" : 13500,
+  "defense" : 13500,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "揮舞",
+      "jp" : "ブランディッシュ",
+      "en" : "Brandish"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 409,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "魅魔",
+    "jp" : "サキュバス",
+    "en" : "Succubus"
+  },
+  "attack" : 9650,
+  "defense" : 9200,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "攝魂之吻",
+      "jp" : "ドレインキッス",
+      "en" : "Draining Kiss"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 410,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "魅魔",
+    "jp" : "サキュバス",
+    "en" : "Succubus"
+  },
+  "attack" : 13700,
+  "defense" : 12500,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "誘惑",
+      "jp" : "テンプテーション",
+      "en" : "Temptation"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 413,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "凱蒂",
+    "jp" : "航空母艦 ケイティ",
+    "en" : "Katie"
+  },
+  "attack" : 11000,
+  "defense" : 7500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大砲發射",
+      "jp" : "主砲発射",
+      "en" : "Cannon Battery"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 423,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "巴巴妥司",
+    "jp" : "バルバトス",
+    "en" : "Barbatos"
+  },
+  "attack" : 11750,
+  "defense" : 14250,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "公爵諭令",
+      "jp" : "公爵の采配",
+      "en" : "Duke's Command"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 424,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "遠古精靈",
+    "jp" : "エンシェントエルフ",
+    "en" : "Ancient Elf"
+  },
+  "attack" : 6000,
+  "defense" : 6000,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "水面降落",
+      "jp" : "水遊び",
+      "en" : "Splashdown"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 425,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "遠古精靈",
+    "jp" : "エンシェントエルフ",
+    "en" : "Ancient Elf"
+  },
+  "attack" : 9000,
+  "defense" : 9000,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "守護森林",
+      "jp" : "母なる森の恵み",
+      "en" : "Sheltering Forest"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 426,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "文車妖妃",
+    "jp" : "文車妖妃",
+    "en" : "Fuguruma Faerie"
+  },
+  "attack" : 5500,
+  "defense" : 6300,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "源氏物語",
+      "jp" : "朗読・源氏物語",
+      "en" : "Tale of Genji"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 427,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "文車妖妃",
+    "jp" : "文車妖妃",
+    "en" : "Fuguruma Faerie"
+  },
+  "attack" : 8500,
+  "defense" : 9200,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "伊勢物語",
+      "jp" : "暗唱・伊勢物語",
+      "en" : "Tales of Ise"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 428,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "柳生宗嚴",
+    "jp" : "柳生宗厳(やぎゅうむねよし)",
+    "en" : "Muneyoshi Yagyu"
+  },
+  "attack" : 6300,
+  "defense" : 5500,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "閃光之刃",
+      "jp" : "剣人の鼓舞",
+      "en" : "Flashing Blade"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 429,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "柳生宗嚴",
+    "jp" : "柳生宗厳(やぎゅうむねよし)",
+    "en" : "Muneyoshi Yagyu"
+  },
+  "attack" : 9200,
+  "defense" : 8500,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "柳生新陰流",
+      "jp" : "柳生新陰流",
+      "en" : "Yagyu Way"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 430,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "波莉亞胡[聖誕節]",
+    "jp" : "ポリアフ[Xmas]",
+    "en" : "Poli'ahu [Xmas]"
+  },
+  "attack" : 5500,
+  "defense" : 5500,
+  "spirit" : 17,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "降雪",
+      "jp" : "スノー☆ドロップ",
+      "en" : "Snowdrop"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 431,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "娜塔莉奈浮[聖誕節]",
+    "jp" : "スペツナズナイフ[Xmas]",
+    "en" : "Natalia Nyfe [Xmas]"
+  },
+  "attack" : 6100,
+  "defense" : 5100,
+  "spirit" : 18,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖誕夜獻禮",
+      "jp" : "聖夜の贈り物",
+      "en" : "Holy Night's Offering"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 432,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "菊一文字則宗[聖誕節]",
+    "jp" : "菊一文字[Xmas]",
+    "en" : "Kiku Ichimonji [Xmas]"
+  },
+  "attack" : 8000,
+  "defense" : 6150,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "局中法度",
+      "jp" : "局中法度",
+      "en" : "Code of the Shinsengumi"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 433,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "橋姬[聖誕節]",
+    "jp" : "橋姫[Xmas]",
+    "en" : "Hashihime [Xmas]"
+  },
+  "attack" : 9000,
+  "defense" : 7100,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "吞噬一切的忌妒",
+      "jp" : "うらみつらみねたみそねみ",
+      "en" : "All-Consuming Envy"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 434,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "雪景球",
+    "jp" : "スノードーム",
+    "en" : "Snow Dome"
+  },
+  "attack" : 6200,
+  "defense" : 9400,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "平安夜",
+      "jp" : "ホーリーナイト",
+      "en" : "Silent Night"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 435,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "聖誕老公公",
+    "jp" : "サンタクロース",
+    "en" : "Santa Claus"
+  },
+  "attack" : 13200,
+  "defense" : 7200,
+  "spirit" : 32,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "聖誕快樂",
+      "jp" : "メリー☆クリスマス",
+      "en" : "Merry Christmas"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 436,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "沙羅曼達[聖誕節]",
+    "jp" : "サラマンダー[Xmas]",
+    "en" : "Salamander [Xmas]"
+  },
+  "attack" : 14000,
+  "defense" : 4500,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火柱",
+      "jp" : "火柱",
+      "en" : "Flame Column"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 437,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "管狐[聖誕節]",
+    "jp" : "管狐[Xmas]",
+    "en" : "Pipe Fox [Xmas]"
+  },
+  "attack" : 9100,
+  "defense" : 10500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幻惑",
+      "jp" : "幻惑",
+      "en" : "Bewitchment"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 438,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "銘刀虎徹[聖誕節]",
+    "jp" : "銘刀虎徹[Xmas]",
+    "en" : "Kotetsu [Xmas]"
+  },
+  "attack" : 11500,
+  "defense" : 8000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "烈火鬥氣",
+      "jp" : "烈火の闘気",
+      "en" : "Fiery Spirit"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 439,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "比蒙巨獸(鎮)[聖誕節]",
+    "jp" : "ベヒモス鎮[Xmas]",
+    "en" : "Behemoth (Calm) [Xmas]"
+  },
+  "attack" : 4750,
+  "defense" : 12500,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "雷球",
+      "jp" : "まるまる",
+      "en" : "Thunderball"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 440,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "兔年",
+    "jp" : "卯年",
+    "en" : "Zodiac Rabbit"
+  },
+  "attack" : 4500,
+  "defense" : 8900,
+  "spirit" : 27,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "受寵之子",
+      "jp" : "あまえんぼ",
+      "en" : "Spoilt Child"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 441,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "門松",
+    "jp" : "門松",
+    "en" : "Kadomatsu"
+  },
+  "attack" : 6650,
+  "defense" : 5000,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "年神加持",
+      "jp" : "年神の加護",
+      "en" : "Toshigami's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 70
+  }
+}, {
+  "id" : 442,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "泰坦妮婭",
+    "jp" : "ティターニア",
+    "en" : "Titania"
+  },
+  "attack" : 8800,
+  "defense" : 12500,
+  "spirit" : 33,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "女王的祝福",
+      "jp" : "女王の祝福",
+      "en" : "A Queen's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 443,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "天鈿女命[新年]",
+    "jp" : "アメノウズメ[正月]",
+    "en" : "Ameno Uzume [New Year]"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 28,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "戰舞",
+      "jp" : "戦いの舞踏",
+      "en" : "War Dance"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 444,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "死神[新年]",
+    "jp" : "死神[正月]",
+    "en" : "Grim Reaper [New Year]"
+  },
+  "attack" : 14666,
+  "defense" : 666,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "最後審判",
+      "jp" : "断罪",
+      "en" : "Final Judgment"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 445,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "香子蘭[新年]",
+    "jp" : "ヴァニラ[正月]",
+    "en" : "Vanilla [New Year]"
+  },
+  "attack" : 12200,
+  "defense" : 12200,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "香草精",
+      "jp" : "ヴァニラ・エッセンス",
+      "en" : "Vanilla Essence"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 448,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "小魔怪",
+    "jp" : "インプ",
+    "en" : "Impy"
+  },
+  "attack" : 8550,
+  "defense" : 8050,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "性感惡作劇",
+      "jp" : "セクシーなイタズラ☆",
+      "en" : "Seductive Trick"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 449,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "悟",
+    "jp" : "サトリ",
+    "en" : "Satori"
+  },
+  "attack" : 13800,
+  "defense" : 12000,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "讀心術",
+      "jp" : "心を読む",
+      "en" : "Mind Absorb"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 450,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "阿通",
+    "jp" : "おつう",
+    "en" : "Otsu"
+  },
+  "attack" : 6000,
+  "defense" : 7500,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "羽毛散落",
+      "jp" : "羽根を散らかす",
+      "en" : "Feather Drop"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 70
+  }
+}, {
+  "id" : 455,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鳳凰",
+    "jp" : "フェニックス",
+    "en" : "Phoenix"
+  },
+  "attack" : 8000,
+  "defense" : 6800,
+  "spirit" : 23,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "轉世之火",
+      "jp" : "輪廻の燈火",
+      "en" : "Fires of Reincarnation"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 456,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "鳳凰",
+    "jp" : "フェニックス",
+    "en" : "Phoenix"
+  },
+  "attack" : 13500,
+  "defense" : 12400,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "轉世之劫火",
+      "jp" : "輪廻の劫火",
+      "en" : "Pyres of Reincarnation"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 70
+  }
+}, {
+  "id" : 458,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "麥哲倫（星雲）",
+    "jp" : "マゼラン(銀河)",
+    "en" : "Magellan (Galaxy)"
+  },
+  "attack" : 10101,
+  "defense" : 14202,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "麥哲倫星流",
+      "jp" : "マゼラニックストリーム",
+      "en" : "Magellanic Stream"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 467,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "哈莉",
+    "jp" : "モハーナ・ハリ",
+    "en" : "Hari"
+  },
+  "attack" : 8050,
+  "defense" : 8550,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "甜蜜陷阱",
+      "jp" : "ハニートラップ",
+      "en" : "Honey Trap"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 469,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "奇美拉",
+    "jp" : "キマイラ",
+    "en" : "Chimera"
+  },
+  "attack" : 10000,
+  "defense" : 10000,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "混亂協調者",
+      "jp" : "カオスコーディネート",
+      "en" : "Chaos Coordinator"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 470,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "伊西絲",
+    "jp" : "イシス",
+    "en" : "Isis"
+  },
+  "attack" : 9800,
+  "defense" : 7000,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "死與重生之光",
+      "jp" : "死と再生の光",
+      "en" : "Light of Death and Rebirth"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 471,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "佛鈕司",
+    "jp" : "フォルネウス",
+    "en" : "Forneus"
+  },
+  "attack" : 8000,
+  "defense" : 8000,
+  "spirit" : 24,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "海流猛擊",
+      "jp" : "海流スマッシュ",
+      "en" : "Tidal Smash"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 472,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "歐西里斯",
+    "jp" : "オシリス",
+    "en" : "Osiris"
+  },
+  "attack" : 13300,
+  "defense" : 13300,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "制裁之光",
+      "jp" : "裁きの光",
+      "en" : "Light of Judgement"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "0",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 473,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "干將與莫邪",
+    "jp" : "干将・莫耶",
+    "en" : "Gan Jiang &  Mo Ye"
+  },
+  "attack" : 13300,
+  "defense" : 7200,
+  "spirit" : 31,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "劍舞",
+      "jp" : "宝剣の舞",
+      "en" : "Interlocking Swords"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 474,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "曹操鎧甲",
+    "jp" : "曹操の鎧",
+    "en" : "Cao Cao's Armor"
+  },
+  "attack" : 7500,
+  "defense" : 9800,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "緋紅守護者",
+      "jp" : "赤燐の守護",
+      "en" : "Crimson Guardian"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 476,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鬼子母",
+    "jp" : "ハリティー",
+    "en" : "Hariti"
+  },
+  "attack" : 8500,
+  "defense" : 8500,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "紀律時刻",
+      "jp" : "躾の時間",
+      "en" : "Discipline Time"
+    },
+    "type" : 2,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 481,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "雷威",
+    "jp" : "リボルバー500",
+    "en" : "Revvie"
+  },
+  "attack" : 11100,
+  "defense" : 5000,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "瞬間子彈",
+      "jp" : "刹那の弾丸",
+      "en" : "Transient Bullet"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 487,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "盜賊西碧利",
+    "jp" : "盗賊シビレ",
+    "en" : "Sibylle the Thief"
+  },
+  "attack" : 9750,
+  "defense" : 9750,
+  "spirit" : 30,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "瞬間判斷",
+      "jp" : "瞬間目利き術",
+      "en" : "Momentary Judgment"
+    },
+    "type" : 1,
+    "attribute" : "4"
+  }
+}, {
+  "id" : 489,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "酒天童子（亂）",
+    "jp" : "酒天童子・乱",
+    "en" : "Shuten-doji (Wild)"
+  },
+  "attack" : 14500,
+  "defense" : 12200,
+  "spirit" : 38,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "王者歸來",
+      "jp" : "王の帰還",
+      "en" : "King's Return"
+    },
+    "type" : 0,
+    "strength" : 19,
+    "frequency" : 50
+  }
+}, {
+  "id" : 490,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "酒天童子（鎮）",
+    "jp" : "酒天童子・鎮",
+    "en" : "Shuten-doji (Calm)"
+  },
+  "attack" : 13600,
+  "defense" : 11500,
+  "spirit" : 36,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "惡鬼野心",
+      "jp" : "覇鬼煌",
+      "en" : "Demonic Ambition"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 491,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "坂田金時",
+    "jp" : "坂田金時",
+    "en" : "Kintaro"
+  },
+  "attack" : 9800,
+  "defense" : 8500,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "認真",
+      "jp" : "本気（マジ）",
+      "en" : "True Spirit"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "1",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 492,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "神變鬼毒酒",
+    "jp" : "神便鬼毒酒",
+    "en" : "Poisoned Sake"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "2012年冬季",
+      "jp" : "愛ゆえに…2012冬",
+      "en" : "Winter 2012"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 493,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "鬼子母神",
+    "jp" : "鬼子母神",
+    "en" : "Kishimojin"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "大啖",
+      "jp" : "食べる",
+      "en" : "Munch"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 494,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "福神",
+    "jp" : "福の神",
+    "en" : "Goddess of Good Fortune"
+  },
+  "attack" : 11000,
+  "defense" : 15000,
+  "spirit" : 37,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "幸福之風",
+      "jp" : "幸福の風",
+      "en" : "Breeze of Fortune"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 495,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "酒解童子",
+    "jp" : "酒解子神",
+    "en" : "Sakatokego no Kami"
+  },
+  "attack" : 6000,
+  "defense" : 7000,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "能量奔騰！",
+      "jp" : "駆けつけ一気！",
+      "en" : "Rush of Energy!"
+    },
+    "type" : 2,
+    "attribute" : "1",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 496,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "蜂窩獵人",
+    "jp" : "狩人ハチノス",
+    "en" : "Hive Hunter"
+  },
+  "attack" : 9500,
+  "defense" : 9500,
+  "spirit" : 29,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "玩家之魂",
+      "jp" : "ボトラー魂",
+      "en" : "Gamer Spirit"
+    },
+    "type" : 0,
+    "strength" : 7,
+    "frequency" : 50
+  }
+}, {
+  "id" : 497,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "茨木童子",
+    "jp" : "茨木童子",
+    "en" : "Ibaraki Doji"
+  },
+  "attack" : 10000,
+  "defense" : 8500,
+  "spirit" : 27,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "鬼之大愛",
+      "jp" : "偉大なる鬼の愛",
+      "en" : "Great Demon's Love"
+    },
+    "type" : 1,
+    "attribute" : "0",
+    "target" : "1",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 498,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "童子切",
+    "jp" : "童子切",
+    "en" : "Dojigiri"
+  },
+  "attack" : 14000,
+  "defense" : 13600,
+  "spirit" : 39,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "月下斬擊",
+      "jp" : "月下大輪斬",
+      "en" : "Moonlit Slice"
+    },
+    "type" : 2,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "9",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20001,
+  "attribute" : 1,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "依弗利特++",
+    "jp" : "イフリート++",
+    "en" : "Ifrit++"
+  },
+  "attack" : 8800,
+  "defense" : 8000,
+  "spirit" : 25,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "火幕",
+      "jp" : "炎の煙幕",
+      "en" : "Curtain of Flame"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20002,
+  "attribute" : 1,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "依弗利特++",
+    "jp" : "イフリート++",
+    "en" : "Ifrit++"
+  },
+  "attack" : 10900,
+  "defense" : 10500,
+  "spirit" : 34,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "獄炎加護",
+      "jp" : "獄炎の加護",
+      "en" : "Hellfire's Blessing"
+    },
+    "type" : 1,
+    "attribute" : "1",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20003,
+  "attribute" : 2,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "維納斯++",
+    "jp" : "ヴィーナス++",
+    "en" : "Venus++"
+  },
+  "attack" : 9000,
+  "defense" : 8850,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛神面紗",
+      "jp" : "愛神のベール",
+      "en" : "Veil of Eros"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20004,
+  "attribute" : 2,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "維納斯++",
+    "jp" : "ヴィーナス++",
+    "en" : "Venus++"
+  },
+  "attack" : 11500,
+  "defense" : 11500,
+  "spirit" : 34,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "愛與美的鼓舞",
+      "jp" : "愛と美の鼓舞",
+      "en" : "Inspirational Beauty"
+    },
+    "type" : 1,
+    "attribute" : "2",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20005,
+  "attribute" : 3,
+  "rarity" : 4,
+  "name" : {
+    "zh_TW" : "史黛拉++",
+    "jp" : "ステルス戦闘機++",
+    "en" : "Stella++"
+  },
+  "attack" : 8850,
+  "defense" : 9000,
+  "spirit" : 26,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "匿蹤",
+      "jp" : "ステルス",
+      "en" : "Stealth"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "2",
+    "strength" : "2",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20006,
+  "attribute" : 3,
+  "rarity" : 5,
+  "name" : {
+    "zh_TW" : "史黛拉 2++",
+    "jp" : "ステルス戦闘機改++",
+    "en" : "Stella Mk. 2++"
+  },
+  "attack" : 12000,
+  "defense" : 13000,
+  "spirit" : 35,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "超音速巡航",
+      "jp" : "超音速巡航",
+      "en" : "Supersonic Cruise"
+    },
+    "type" : 1,
+    "attribute" : "3",
+    "target" : "0",
+    "strength" : "7",
+    "frequency" : 50
+  }
+}, {
+  "id" : 20007,
+  "attribute" : 1,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "雪女++",
+    "jp" : "ゆきおんな++",
+    "en" : "Snow Woman++"
+  },
+  "attack" : 4980,
+  "defense" : 6150,
+  "spirit" : 20,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "暴風雪",
+      "jp" : "猛吹雪",
+      "en" : "Brutal Blizzard"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 20008,
+  "attribute" : 2,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "宮本武藏++",
+    "jp" : "宮本武蔵++",
+    "en" : "Musashi Miyamoto++"
+  },
+  "attack" : 6300,
+  "defense" : 6300,
+  "spirit" : 21,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "二刀流",
+      "jp" : "二刀流",
+      "en" : "Double Blades"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+}, {
+  "id" : 20009,
+  "attribute" : 3,
+  "rarity" : 3,
+  "name" : {
+    "zh_TW" : "貝茲++",
+    "jp" : "スティンガー++",
+    "en" : "Baz++"
+  },
+  "attack" : 6300,
+  "defense" : 6600,
+  "spirit" : 22,
+  "skill" : {
+    "name" : {
+      "zh_TW" : "紅外線探測",
+      "jp" : "赤外線探知",
+      "en" : "Infrared Detection"
+    },
+    "type" : 0,
+    "strength" : 9,
+    "frequency" : 50
+  }
+} ]
