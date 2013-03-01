@@ -73,7 +73,7 @@ function DemonListCtrl($scope) {
     };
 }
 
-function listDemonCtor(id, data){
+function listDemonCtor(id, data) {
     return {
         id: id,
         demon: data,
@@ -115,7 +115,7 @@ function AllListCtrl($scope, $cookieStore, $rootScope, demons) {
         $rootScope.ownedList.push(listDemonCtor(id, $scope.demons[id]));
 
         var cookie = [];
-        for(var i = 0; i < $rootScope.ownedList.length; ++i){
+        for (var i = 0; i < $rootScope.ownedList.length; ++i) {
             cookie.push($rootScope.ownedList[i].id);
         }
         $cookieStore.put('owned', cookie);
@@ -137,15 +137,15 @@ function OwnedListCtrl($scope, $cookieStore, $rootScope, demons) {
     DemonListCtrl($scope);
 
     $scope.click = function (id) {
-        for(var i = 0; i < $scope.list.length; ++i){
-            if($scope.list[i].id == id){
+        for (var i = 0; i < $scope.list.length; ++i) {
+            if ($scope.list[i].id == id) {
                 $scope.list.splice(i, 1);
                 break;
             }
         }
 
         var cookie = [];
-        for(var i = 0; i < $rootScope.ownedList.length; ++i){
+        for (var i = 0; i < $rootScope.ownedList.length; ++i) {
             cookie.push($rootScope.ownedList[i].id);
         }
         $cookieStore.put('owned', cookie);
@@ -155,3 +155,84 @@ function OwnedListCtrl($scope, $cookieStore, $rootScope, demons) {
 }
 
 OwnedListCtrl.$inject = ['$scope', '$cookieStore', '$rootScope', 'demons'];
+
+function AttackTeamListCtrl($scope, $cookieStore, $rootScope, demons) {
+    demons.async.then(function (d) {
+        initOwnedList($rootScope, $cookieStore);
+        $scope.demons = $rootScope.demons;
+        $scope.teams = [
+            [
+                {
+                    id: 497,
+                    skill: 3,
+                    demon: $scope.demons[497]
+                },
+                {
+                    id: 220,
+                    skill: 0,
+                    demon: $scope.demons[220]
+                },
+                {
+                    id: 102,
+                    skill: 0,
+                    demon: $scope.demons[102]
+                },
+                {
+                    id: 102,
+                    skill: 0,
+                    demon: $scope.demons[102]
+                },
+                {
+                    id: 95,
+                    skill: 0,
+                    demon: $scope.demons[95]
+                }
+            ]
+        ];
+    });
+
+    $scope.calculateAttack = function (demons, demon, demonIndex, from) {
+        if (demons.length <= from ||
+            typeof demons[from].demon.skill.type === 'undefined' ||
+            demons[from].demon.skill.attribute == "4") {
+            return 0;
+        } else {
+            if (demons[from].demon.skill.target == '2') {
+                return 0;
+            }
+
+            var attr = demons[from].demon.skill.attribute;
+            if (parseInt(attr) != demon.demon.attribute && attr != '0') {
+                return 0;
+            }
+
+            if (demonIndex == from && demon.demon.skill.type != 0) {
+                return 0;
+            }
+
+            var str = (demons[from].demon.rarity * 2) + 5 + demons[from].skill + parseInt(demons[from].demon.skill.strength);
+            return demon.demon.attack * str * 0.01;
+        }
+    };
+
+    $scope.skillStrength = function (demon) {
+        if (typeof demon.demon.skill.type === 'undefined') {
+            return "";
+        } else {
+            return ((demon.demon.rarity * 2) + 5 + demon.skill + parseInt(demon.demon.skill.strength));
+        }
+    };
+
+    $scope.baseSkillLevel = function (demon) {
+        if (typeof demon.demon.skill.type === 'undefined') {
+            return "";
+        } else {
+            return demon.demon.rarity * 2 + 5;
+        }
+    };
+
+    $scope.addTeam = function () {
+    };
+}
+
+AttackTeamListCtrl.$inject = ['$scope', '$cookieStore', '$rootScope', 'demons'];

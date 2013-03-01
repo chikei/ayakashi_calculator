@@ -1,0 +1,37 @@
+<div ng-repeat="team in teams">
+    <div>
+        <table class="table table-condensed table-hover">
+            <thead>
+            <tr>
+                <th>式神</th>
+                <th>滿等技能等級</th>
+                <th>額外技能等級</th>
+                <th>技能效果</th>
+                <th>效果倍率(%)</th>
+                <th>發動機率(%)</th>
+                <th>基本數值</th>
+                <th>加成1</th>
+                <th>加成2</th>
+                <th>加成3</th>
+                <th>加成4</th>
+                <th>加成5</th>
+            </tr>
+            </thead>
+            <tr ng-repeat="demon in team">
+                <td>{{demon.demon.name.zh_TW}}</td>
+                <td>{{baseSkillLevel(demon)}}</td>
+                <td><input type="number" ng-model="demon.skill" class="input-small"></td>
+                <td>{{demon.demon.skill | displaySkill}}</td>
+                <td>{{skillStrength(demon)}}</td>
+                <td>{{demon.demon.skill.frequency}}</td>
+                <td>{{demon.demon.attack}}</td>
+                <td>{{calculateAttack(team, demon, $index, 0)}}</td>
+                <td>{{calculateAttack(team, demon, $index, 1)}}</td>
+                <td>{{calculateAttack(team, demon, $index, 2)}}</td>
+                <td>{{calculateAttack(team, demon, $index, 3)}}</td>
+                <td>{{calculateAttack(team, demon, $index, 4)}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
+<a href="" ng-click="addTeam">Add Team</a>
