@@ -2,7 +2,7 @@
 
 /* Controllers */
 
-function DemonListCtrl($scope) {
+function DemonListCtrl($scope, demons) {
     $scope.predicate = ['+demon.attribute'];
     $scope.name = '';
     $scope.attack = '';
@@ -71,87 +71,128 @@ function DemonListCtrl($scope) {
         }
         $scope.predicate.push('+demon.' + field);
     };
-}
 
-function listDemonCtor(id, data){
-    return {
-        id: id,
-        demon: data,
-        display: false,
-        imageUrl: ""
+    $scope.generateAtkTeam = function () {
+        var a = [];
+        for (var i = 0; i < demons.atk.length; ++i) {
+            if (demons.atk[i].members.length < 5)
+                a.push(i + 1);
+        }
+        return a;
+    };
+
+    $scope.addingAtkTeamIndex = null;
+
+    $scope.addAtkToTeam = function (id) {
+        demons.addAtkToTeam($scope.addingAtkTeamIndex - 1, id);
+        $scope.addingAtkTeamIndex = null;
     };
 }
 
-function initOwnedList($rootScope, $cookieStore) {
-    if (typeof $rootScope.ownedList === 'undefined') {
-        $rootScope.ownedList = [];
-        var owned = $cookieStore.get('owned');
+function AllListCtrl($scope, demons) {
+    DemonListCtrl($scope, demons);
 
-        if (typeof owned === 'undefined')
-            owned = [];
+    $scope.list = demons.allDemons;
 
-        for (var i = 0; i < owned.length; ++i) {
-            $rootScope.ownedList.push(listDemonCtor(owned[i], $rootScope.demons[owned[i]]));
-        }
-    }
-}
-function AllListCtrl($scope, $cookieStore, $rootScope, demons) {
-    demons.async.then(function (d) {
-        $scope.list = [];
-        $scope.demons = $rootScope.demons;
-        $scope.demonDisplay = {};
-        $scope.demonImageUrl = {};
-
-        for (var m in $scope.demons) {
-            $scope.list.push(listDemonCtor(m, $scope.demons[m]));
-        }
-
-        initOwnedList($rootScope, $cookieStore);
-    });
-
-    DemonListCtrl($scope);
+    $scope.demons = demons.demons;
 
     $scope.click = function (id) {
-        $rootScope.ownedList.push(listDemonCtor(id, $scope.demons[id]));
-
-        var cookie = [];
-        for(var i = 0; i < $rootScope.ownedList.length; ++i){
-            cookie.push($rootScope.ownedList[i].id);
-        }
-        $cookieStore.put('owned', cookie);
+        demons.addOwned(id);
     };
 
     $scope.clickIcon = 'icon-plus';
 }
 
-AllListCtrl.$inject = ['$scope', '$cookieStore', '$rootScope', 'demons'];
+AllListCtrl.$inject = ['$scope', 'demons'];
 
-function OwnedListCtrl($scope, $cookieStore, $rootScope, demons) {
-    demons.async.then(function (d) {
-        initOwnedList($rootScope, $cookieStore);
+function OwnedListCtrl($scope, demons) {
+    DemonListCtrl($scope, demons);
 
-        $scope.list = $rootScope.ownedList;
-        $scope.demons = $rootScope.demons;
-    });
+    $scope.list = demons.owned;
 
-    DemonListCtrl($scope);
+    $scope.demons = demons.demons;
 
     $scope.click = function (id) {
-        for(var i = 0; i < $scope.list.length; ++i){
-            if($scope.list[i].id == id){
-                $scope.list.splice(i, 1);
-                break;
-            }
-        }
-
-        var cookie = [];
-        for(var i = 0; i < $rootScope.ownedList.length; ++i){
-            cookie.push($rootScope.ownedList[i].id);
-        }
-        $cookieStore.put('owned', cookie);
+        demons.removeOwned(id);
     };
 
     $scope.clickIcon = 'icon-minus';
 }
 
-OwnedListCtrl.$inject = ['$scope', '$cookieStore', '$rootScope', 'demons'];
+OwnedListCtrl.$inject = ['$scope', 'demons'];
+
+function AttackTeamListCtrl($scope, demons) {
+    demons.async.then(function (d) {
+        $scope.demons = demons.demons;
+        $scope.teams = demons.atk
+    });
+    $scope.addTeam = function () {
+        demons.addAtkTeam()
+    };
+
+    $scope.setLeader = function (teamIdx, leaderIdx) {
+        demons.setAtkLeader(teamIdx, leaderIdx);
+    };
+
+    $scope.remove = function (teamIdx, idx){
+        demons.removeAtkFromTeam(teamIdx, idx);
+    };
+
+    $scope.removeTeam = function (teamIdx){
+        demons.removeAtkTeam(teamIdx);
+    };
+}
+
+AttackTeamListCtrl.$inject = ['$scope', 'demons'];
+
+function AttackTeamCtrl($scope) {
+    $scope.init = function (team) {
+        $scope.team = team;
+    };
+
+    $scope.attack = function (demonIndex, from) {
+        var demon = $scope.team.members[demonIndex];
+        if ($scope.team.members.length <= from ||
+            typeof $scope.team.members[from].demon.skill.type === 'undefined' ||
+            $scope.team.members[from].demon.skill.attribute == "4") {
+            return 0;
+        } else {
+            if ($scope.team.members[from].demon.skill.target == '2') {
+                return 0;
+            }
+
+            var attr = $scope.team.members[from].demon.skill.attribute;
+            if (parseInt(attr) != demon.demon.attribute && attr != '0') {
+                return 0;
+            }
+
+            var str = ($scope.team.members[from].demon.rarity * 2) + 5 + $scope.team.members[from].skill + parseInt($scope.team.members[from].demon.skill.strength);
+            return demon.demon.attack * str * 0.01;
+        }
+    };
+
+    $scope.skillStrength = function (demon) {
+        if (typeof demon.demon.skill.type === 'undefined') {
+            return "";
+        } else {
+            return ((demon.demon.rarity * 2) + 5 + demon.skill + parseInt(demon.demon.skill.strength));
+        }
+    };
+
+    $scope.baseSkillLevel = function (demon) {
+        if (typeof demon.demon.skill.type === 'undefined') {
+            return "";
+        } else {
+            return demon.demon.rarity * 2 + 5;
+        }
+    };
+
+    $scope.leaderIcon = function (idx) {
+        if (idx == $scope.team.leader)
+            return "icon-star";
+        else
+            return "icon-star-empty";
+    }
+}
+
+AttackTeamCtrl.$inject = ['$scope'];

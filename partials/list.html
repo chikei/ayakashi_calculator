@@ -1,5 +1,5 @@
 <div>
-    <form class="form-inline" style="margin-top: 20px">
+    <form class="form-inline" style="margin-top: 1em">
         <select ng-model="attribute" class="input-small">
             <option value="0">類型</option>
             <option value="1">妖</option>
@@ -46,6 +46,7 @@
     <thead>
     <tr>
         <th></th>
+        <th></th>
         <th>圖</th>
         <th>
             <button ng-click="order('attribute')" ng-class="'btn btn-mini'">類型</button>
@@ -78,6 +79,7 @@
     <tr ng-repeat="demon in list | filter:filter | orderBy:predicate"
         ng-class="demon.demon.attribute | attributeToRowClass">
         <td><a href="" ng-click="click(demon.id)"><i ng-class="clickIcon"></i></a></td>
+        <td><select ng-model="$parent.addingAtkTeamIndex" ng-options="idx for idx in generateAtkTeam()" ng-change="addAtkToTeam(demon.id)" class="input-mini" style="height: 1.5em; margin-bottom: 0"></select></td>
         <td>
             <a href="" ng-click="displayImage(demon)" ng-hide="demon.display">{{demon.id}}</a>
             <img ng-src="{{demon.imageUrl}}" ng-show="demon.display" ng-click="hideImage(demon)"/>

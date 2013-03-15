@@ -110,4 +110,12 @@ angular.module('ayakashi.filters', []
                 return "SLv + " + input;
             }
         }
+    }).filter('baseSkillLevel', function(){
+        return function(input){
+            if (typeof input.skill.type === 'undefined') {
+                return "";
+            } else {
+                return input.rarity * 2 + 5;
+            }
+        }
     });
