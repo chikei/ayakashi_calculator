@@ -1,8 +1,10 @@
 <div ng-repeat="team in teams">
-    <div>
+    <div ng-controller="AttackTeamCtrl" ng-init="init(team)">
         <table class="table table-condensed table-hover">
             <thead>
             <tr>
+                <th></th>
+                <th></th>
                 <th>式神</th>
                 <th>滿等技能等級</th>
                 <th>額外技能等級</th>
@@ -17,21 +19,24 @@
                 <th>加成5</th>
             </tr>
             </thead>
-            <tr ng-repeat="demon in team">
+            <tr ng-repeat="demon in team.members" ng-class="demon.demon.attribute | attributeToRowClass">
+                <td><a href="" ng-click="remove($parent.$index, $index)"><i class="icon-minus"></i></a></td>
+                <td><a href="" ng-click="setLeader($parent.$index, $index)"><i ng-class="leaderIcon($index)"></i></a></td>
                 <td>{{demon.demon.name.zh_TW}}</td>
-                <td>{{baseSkillLevel(demon)}}</td>
-                <td><input type="number" ng-model="demon.skill" class="input-small"></td>
+                <td>{{demon.demon | baseSkillLevel}}</td>
+                <td><input ng-model="demon.skill" class="input-mini"></td>
                 <td>{{demon.demon.skill | displaySkill}}</td>
                 <td>{{skillStrength(demon)}}</td>
                 <td>{{demon.demon.skill.frequency}}</td>
                 <td>{{demon.demon.attack}}</td>
-                <td>{{calculateAttack(team, demon, $index, 0)}}</td>
-                <td>{{calculateAttack(team, demon, $index, 1)}}</td>
-                <td>{{calculateAttack(team, demon, $index, 2)}}</td>
-                <td>{{calculateAttack(team, demon, $index, 3)}}</td>
-                <td>{{calculateAttack(team, demon, $index, 4)}}</td>
+                <td>{{attack($index, 0)}}</td>
+                <td>{{attack($index, 1)}}</td>
+                <td>{{attack($index, 2)}}</td>
+                <td>{{attack($index, 3)}}</td>
+                <td>{{attack($index, 4)}}</td>
             </tr>
         </table>
+        <a href="" ng-click="removeTeam($index)">Remove Team</a>
     </div>
 </div>
-<a href="" ng-click="addTeam">Add Team</a>
+<a href="" ng-click="addTeam()">Add Team</a>
